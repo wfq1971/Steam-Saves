@@ -1,0 +1,29 @@
+"246620"
+{
+	"ChangeNumber"		"4"
+	"ostype"		"0"
+	"completion.dat"
+	{
+		"root"		"0"
+		"size"		"1989"
+		"localtime"		"1730953131"
+		"time"		"1730953129"
+		"remotetime"		"1730953129"
+		"sha"		"514419b9e160102d41fb359cedb5ef98e84a0815"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"scores.dat"
+	{
+		"root"		"0"
+		"size"		"108"
+		"localtime"		"1730954858"
+		"time"		"1730954856"
+		"remotetime"		"1730954856"
+		"sha"		"e5049a44f3d5fa18f87dc9a9c08eca7a4723ed60"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

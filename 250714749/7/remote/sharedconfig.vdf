@@ -1,0 +1,33 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SurveyDate"		"2017-06-30"
+				"SurveyDateVersion"		"4781687628786023964"
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
+			}
+		}
+	}
+	"JSClientStorage"
+	{
+		"library.review.1574000"
+		{
+			"rtDismissedReviseReviewReminder"		"1731672576"
+		}
+		"timeline_intro"
+		{
+			"rtSeen"		"1732793216"
+			"rtLinkDismissed"		"1732793216"
+		}
+		"spotlight.review.1293830"
+		{
+			"rgPromptDismissals"		"2"
+			"bWasAskedToRevise"		"0"
+		}
+	}
+}

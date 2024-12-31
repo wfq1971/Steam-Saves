@@ -1,0 +1,35 @@
+"subscribedfiles"
+{
+	"appid"		"1268590"
+	"time_last_updated"		"1731843981"
+	"0"
+	{
+		"publishedfileid"		"3336674217"
+		"time_subscribed"		"1731852607"
+		"disabled_locally"		"0"
+	}
+	"1"
+	{
+		"publishedfileid"		"3335424026"
+		"time_subscribed"		"1731852570"
+		"disabled_locally"		"0"
+	}
+	"2"
+	{
+		"publishedfileid"		"3316325889"
+		"time_subscribed"		"1731852564"
+		"disabled_locally"		"0"
+	}
+	"3"
+	{
+		"publishedfileid"		"3317783476"
+		"time_subscribed"		"1731852265"
+		"disabled_locally"		"0"
+	}
+	"4"
+	{
+		"publishedfileid"		"3316332136"
+		"time_subscribed"		"1731837408"
+		"disabled_locally"		"0"
+	}
+}

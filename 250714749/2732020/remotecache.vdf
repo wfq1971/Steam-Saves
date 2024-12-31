@@ -1,0 +1,41 @@
+"2732020"
+{
+	"ChangeNumber"		"2"
+	"ostype"		"0"
+	"saves/76561198210980477/0003"
+	{
+		"root"		"1"
+		"size"		"95917"
+		"localtime"		"1731586452"
+		"time"		"1731586450"
+		"remotetime"		"1731586450"
+		"sha"		"e849b51ee9d1024143d6d75f572641f36474db8b"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"saves/76561198210980477/0001"
+	{
+		"root"		"1"
+		"size"		"62541"
+		"localtime"		"1731770698"
+		"time"		"1731770696"
+		"remotetime"		"1731770696"
+		"sha"		"0d9752b3c8412226a36e9931bfc96667eb1ce55c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"saves/76561198210980477/0000"
+	{
+		"root"		"1"
+		"size"		"447"
+		"localtime"		"1731770698"
+		"time"		"1731770696"
+		"remotetime"		"1731770696"
+		"sha"		"ffd7d9511b3276117b40960df39004eb770a0aba"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

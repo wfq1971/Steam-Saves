@@ -1,0 +1,217 @@
+"Filters"
+{
+	"favorites"
+	{
+	}
+	"history"
+	{
+		"1"
+		{
+			"name"		"10.0.0.1:27015"
+			"address"		"10.0.0.1:27015"
+			"LastPlayed"		"1577516549"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"2"
+		{
+			"name"		"155.133.244.37:27166"
+			"address"		"155.133.244.37:27166"
+			"LastPlayed"		"1603197352"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"3"
+		{
+			"name"		"155.133.244.37:27023"
+			"address"		"155.133.244.37:27023"
+			"LastPlayed"		"1603198275"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"4"
+		{
+			"name"		"127.0.0.1:27015"
+			"address"		"127.0.0.1:27015"
+			"LastPlayed"		"1604590314"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"5"
+		{
+			"name"		"10.198.75.60:27015"
+			"address"		"10.198.75.60:27015"
+			"LastPlayed"		"1603800119"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"6"
+		{
+			"name"		"155.133.244.241:27116"
+			"address"		"155.133.244.241:27116"
+			"LastPlayed"		"1603282069"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"7"
+		{
+			"name"		"0.0.0.1:27015"
+			"address"		"0.0.0.1:27015"
+			"LastPlayed"		"1603547547"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"8"
+		{
+			"name"		"0.0.0.6:27015"
+			"address"		"0.0.0.6:27015"
+			"LastPlayed"		"1603465032"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"9"
+		{
+			"name"		"0.0.0.2:27015"
+			"address"		"0.0.0.2:27015"
+			"LastPlayed"		"1603536566"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"10"
+		{
+			"name"		"155.133.244.240:27054"
+			"address"		"155.133.244.240:27054"
+			"LastPlayed"		"1603791503"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"11"
+		{
+			"name"		"155.133.244.198:27025"
+			"address"		"155.133.244.198:27025"
+			"LastPlayed"		"1603801197"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"12"
+		{
+			"name"		"155.133.244.83:27031"
+			"address"		"155.133.244.83:27031"
+			"LastPlayed"		"1603862327"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"13"
+		{
+			"name"		"61.147.93.220:8004"
+			"address"		"61.147.93.220:8004"
+			"LastPlayed"		"1631109058"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"14"
+		{
+			"name"		"61.147.93.223:8009"
+			"address"		"61.147.93.223:8009"
+			"LastPlayed"		"1631172049"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"15"
+		{
+			"name"		"117.35.248.181:20045"
+			"address"		"117.35.248.181:20045"
+			"LastPlayed"		"1631172269"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"16"
+		{
+			"name"		"153.254.86.216:27104"
+			"address"		"153.254.86.216:27104"
+			"LastPlayed"		"1631173265"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"17"
+		{
+			"name"		"172.18.128.1:27015"
+			"address"		"172.18.128.1:27015"
+			"LastPlayed"		"1631265399"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"18"
+		{
+			"name"		"123.110.91.39:27015"
+			"address"		"123.110.91.39:27015"
+			"LastPlayed"		"1631294032"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"19"
+		{
+			"name"		"172.30.64.1:27015"
+			"address"		"172.30.64.1:27015"
+			"LastPlayed"		"1631330369"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"20"
+		{
+			"name"		"172.25.96.1:27015"
+			"address"		"172.25.96.1:27015"
+			"LastPlayed"		"1631434616"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"21"
+		{
+			"name"		"153.254.86.218:27152"
+			"address"		"153.254.86.218:27152"
+			"LastPlayed"		"1631435791"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"22"
+		{
+			"name"		"153.254.86.215:27225"
+			"address"		"153.254.86.215:27225"
+			"LastPlayed"		"1631436223"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"23"
+		{
+			"name"		"153.254.86.215:27221"
+			"address"		"153.254.86.215:27221"
+			"LastPlayed"		"1631437687"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"24"
+		{
+			"name"		"172.29.240.1:27015"
+			"address"		"172.29.240.1:27015"
+			"LastPlayed"		"1631548086"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"25"
+		{
+			"name"		"172.30.96.1:27015"
+			"address"		"172.30.96.1:27015"
+			"LastPlayed"		"1631634952"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"26"
+		{
+			"name"		"172.23.240.1:27015"
+			"address"		"172.23.240.1:27015"
+			"LastPlayed"		"1631691189"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+	}
+}

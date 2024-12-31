@@ -1,0 +1,41 @@
+"1647250"
+{
+	"ChangeNumber"		"3"
+	"ostype"		"0"
+	"save/intermit2.save"
+	{
+		"root"		"1"
+		"size"		"102"
+		"localtime"		"1731854857"
+		"time"		"1731854854"
+		"remotetime"		"1731854854"
+		"sha"		"be8307123a0e9ed7c251fe451049c60cbb108244"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"save/record.save"
+	{
+		"root"		"1"
+		"size"		"292"
+		"localtime"		"1731855276"
+		"time"		"1731855273"
+		"remotetime"		"1731855273"
+		"sha"		"de7e6b8bc7b6d5000e401364e39c05dbc75d0fcb"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"save/intermit1.save"
+	{
+		"root"		"1"
+		"size"		"102"
+		"localtime"		"1731853319"
+		"time"		"1731853317"
+		"remotetime"		"1731853317"
+		"sha"		"be8307123a0e9ed7c251fe451049c60cbb108244"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

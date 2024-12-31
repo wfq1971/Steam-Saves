@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<sales>
+    <item timeLeft="9" isGenerated="true" xmlFilename="data/vehicles/horsch/terrano3FX/terrano3FX.xml" age="27" price="5747" damage="0.592700" wear="0.761851" operatingTime="87036.726562"/>
+    <item timeLeft="5" isGenerated="true" xmlFilename="data/vehicles/valtra/gSeries/gSeries.xml" age="29" price="39169" damage="0.488441" wear="0.411612" operatingTime="118894.835938">
+        <boughtConfiguration name="baseMaterial" id="33"/>
+        <boughtConfiguration name="rimColor" id="21"/>
+    </item>
+    <item timeLeft="7" isGenerated="true" xmlFilename="G:/Farming Simulator 22/pdlc/pumpsAndHosesPack/data/vehicles/schouten/g400/g400_25.xml" age="14" price="212461" damage="0.212914" wear="0.455400" operatingTime="43956.164062"/>
+    <item timeLeft="5" isGenerated="true" xmlFilename="data/vehicles/claas/rollant455Uniwrap/rollant455Uniwrap.xml" age="27" price="34017" damage="0.229978" wear="0.446070" operatingTime="107353.781250"/>
+    <item timeLeft="13" isGenerated="true" xmlFilename="data/vehicles/gessner/singleRow/singleRow.xml" age="15" price="26981" damage="0.488853" wear="0.663939" operatingTime="47079.566406"/>
+</sales>

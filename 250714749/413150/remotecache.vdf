@@ -1,0 +1,53 @@
+"413150"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"StardewValley/Saves/John_253119603/John_253119603"
+	{
+		"root"		"4"
+		"size"		"3307599"
+		"localtime"		"1602246962"
+		"time"		"1602246960"
+		"remotetime"		"1602246960"
+		"sha"		"5ca7b91cc4b3fba4563dab951d9ecddfa3138d7b"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/John_253119603/John_253119603_old"
+	{
+		"root"		"4"
+		"size"		"3289195"
+		"localtime"		"1602246843"
+		"time"		"1602246841"
+		"remotetime"		"1602246841"
+		"sha"		"85b721d8c455ade213f58013233e144e094358b3"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/John_253119603/SaveGameInfo"
+	{
+		"root"		"4"
+		"size"		"93815"
+		"localtime"		"1602246962"
+		"time"		"1602246960"
+		"remotetime"		"1602246960"
+		"sha"		"60746ce269b2e21ec11454e6483ed7ce4354eba8"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/John_253119603/SaveGameInfo_old"
+	{
+		"root"		"4"
+		"size"		"94858"
+		"localtime"		"1602246843"
+		"time"		"1602246841"
+		"remotetime"		"1602246841"
+		"sha"		"5f3ffdd931fba8db4a6b5bb28d3900b8c7678292"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

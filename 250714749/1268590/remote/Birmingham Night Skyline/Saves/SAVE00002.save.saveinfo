@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ASaveGameInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Timestamp>2024-11-17T14:12:19.1159966+08:00</Timestamp>
+  <TurnCount>192</TurnCount>
+  <ActivePlayerCount>8</ActivePlayerCount>
+  <Filename>Birmingham Night Skyline/Saves/SAVE00002.save</Filename>
+  <RealPlayers>
+    <ASaveGamePlayerEntry>
+      <PlayerName>Birmingham Night Skyline</PlayerName>
+      <PlayerNum>1</PlayerNum>
+      <PlatformID />
+      <IsCurrentTurn>true</IsCurrentTurn>
+      <NationName>japan</NationName>
+      <BonusID>TECHAGE1-STARTUPBONUS-CAPITAL_UNREST</BonusID>
+      <Color>#0060FFFF</Color>
+      <IsEliminated>false</IsEliminated>
+      <IsAI>false</IsAI>
+      <AILevelOneBased>0</AILevelOneBased>
+    </ASaveGamePlayerEntry>
+  </RealPlayers>
+  <AIPlayers>
+    <ASaveGamePlayerEntry>
+      <PlayerName>AI（新手）</PlayerName>
+      <PlayerNum>2</PlayerNum>
+      <PlatformID />
+      <IsCurrentTurn>false</IsCurrentTurn>
+      <PublicSaveURL />
+      <PublicSaveInfoURL />
+      <NationName>egypt</NationName>
+      <BonusID>TECHAGE1-STARTUPBONUS-CHEAPER_CLAIMTERRITORY</BonusID>
+      <Color>#E6BF00FF</Color>
+      <IsEliminated>false</IsEliminated>
+      <IsAI>true</IsAI>
+      <AILevelOneBased>1</AILevelOneBased>
+    </ASaveGamePlayerEntry>
+    <ASaveGamePlayerEntry>
+      <PlayerName>AI（新手）</PlayerName>
+      <PlayerNum>3</PlayerNum>
+      <PlatformID />
+      <IsCurrentTurn>false</IsCurrentTurn>
+      <PublicSaveURL />
+      <PublicSaveInfoURL />
+      <NationName>maliempire</NationName>
+      <BonusID>TECHAGE1-STARTUPBONUS-CAPITAL_WEALTH</BonusID>
+      <Color>#2BA612FF</Color>
+      <IsEliminated>false</IsEliminated>
+      <IsAI>true</IsAI>
+      <AILevelOneBased>1</AILevelOneBased>
+    </ASaveGamePlayerEntry>
+    <ASaveGamePlayerEntry>
+      <PlayerName>AI（新手）</PlayerName>
+      <PlayerNum>4</PlayerNum>
+      <PlatformID />
+      <IsCurrentTurn>false</IsCurrentTurn>
+      <PublicSaveURL />
+      <PublicSaveInfoURL />
+      <NationName>britain</NationName>
+      <BonusID>TECHAGE1-STARTUPBONUS-FASTER_NAVY</BonusID>
+      <Color>#3DD6F5FF</Color>
+      <IsEliminated>false</IsEliminated>
+      <IsAI>true</IsAI>
+      <AILevelOneBased>1</AILevelOneBased>
+    </ASaveGamePlayerEntry>
+    <ASaveGamePlayerEntry>
+      <PlayerName>AI（新手）</PlayerName>
+      <PlayerNum>5</PlayerNum>
+      <PlatformID />
+      <IsCurrentTurn>false</IsCurrentTurn>
+      <PublicSaveURL />
+      <PublicSaveInfoURL />
+      <NationName>poland</NationName>
+      <BonusID>TECHAGE1-STARTUPBONUS-CAPITAL_UNREST</BonusID>
+      <Color>#73176BFF</Color>
+      <IsEliminated>false</IsEliminated>
+      <IsAI>true</IsAI>
+      <AILevelOneBased>1</AILevelOneBased>
+    </ASaveGamePlayerEntry>
+    <ASaveGamePlayerEntry>
+      <PlayerName>AI（新手）</PlayerName>
+      <PlayerNum>6</PlayerNum>
+      <PlatformID />
+      <IsCurrentTurn>false</IsCurrentTurn>
+      <PublicSaveURL />
+      <PublicSaveInfoURL />
+      <NationName>france</NationName>
+      <BonusID>TECHAGE1-STARTUPBONUS-IMPROVED_LEADER_TACTICS</BonusID>
+      <Color>#D96C00FF</Color>
+      <IsEliminated>false</IsEliminated>
+      <IsAI>true</IsAI>
+      <AILevelOneBased>1</AILevelOneBased>
+    </ASaveGamePlayerEntry>
+    <ASaveGamePlayerEntry>
+      <PlayerName>AI（新手）</PlayerName>
+      <PlayerNum>7</PlayerNum>
+      <PlatformID />
+      <IsCurrentTurn>false</IsCurrentTurn>
+      <PublicSaveURL />
+      <PublicSaveInfoURL />
+      <NationName>zulu</NationName>
+      <BonusID>TECHAGE1-STARTUPBONUS-WARBAND</BonusID>
+      <Color>#FF8FC7FF</Color>
+      <IsEliminated>false</IsEliminated>
+      <IsAI>true</IsAI>
+      <AILevelOneBased>1</AILevelOneBased>
+    </ASaveGamePlayerEntry>
+    <ASaveGamePlayerEntry>
+      <PlayerName>AI（新手）</PlayerName>
+      <PlayerNum>8</PlayerNum>
+      <PlatformID />
+      <IsCurrentTurn>false</IsCurrentTurn>
+      <PublicSaveURL />
+      <PublicSaveInfoURL />
+      <NationName>australia</NationName>
+      <BonusID>TECHAGE1-STARTUPBONUS-FASTER_NAVY</BonusID>
+      <Color>#AAFF99FF</Color>
+      <IsEliminated>false</IsEliminated>
+      <IsAI>true</IsAI>
+      <AILevelOneBased>1</AILevelOneBased>
+    </ASaveGamePlayerEntry>
+  </AIPlayers>
+  <GameID>4LYDWP3</GameID>
+  <IsOnlineHotseat>false</IsOnlineHotseat>
+  <SaveFormat>18</SaveFormat>
+  <GameType>AGT_SinglePlayer</GameType>
+  <BuildVersion>1.0.23158.F</BuildVersion>
+  <AgeImagePath>Cards/Techs/Ages/Age6_Enlightenment_3840x2160</AgeImagePath>
+  <MapSizeID>Medium</MapSizeID>
+  <MapBiomeID>Islands</MapBiomeID>
+  <IsAutoSave>false</IsAutoSave>
+  <IsCloudSave>true</IsCloudSave>
+  <CreationBuildVer>1.0.23158.F</CreationBuildVer>
+  <ModsInUse />
+  <DLCsInUse />
+</ASaveGameInfo>

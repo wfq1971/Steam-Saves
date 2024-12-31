@@ -1,0 +1,41 @@
+"471170"
+{
+	"ChangeNumber"		"1"
+	"ostype"		"0"
+	"Backup_Save.dat"
+	{
+		"root"		"0"
+		"size"		"222"
+		"localtime"		"1624375737"
+		"time"		"1624375735"
+		"remotetime"		"1624375735"
+		"sha"		"571ca1a917f5a5f87564ff4ce2d6fc59124cb48c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Save.dat"
+	{
+		"root"		"0"
+		"size"		"222"
+		"localtime"		"1624375733"
+		"time"		"1624375731"
+		"remotetime"		"1624375731"
+		"sha"		"571ca1a917f5a5f87564ff4ce2d6fc59124cb48c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Cloud.dat"
+	{
+		"root"		"0"
+		"size"		"48"
+		"localtime"		"1730955580"
+		"time"		"1730955579"
+		"remotetime"		"1730955579"
+		"sha"		"e0a96f72edfb790530311f65185f22ac4a5f0de6"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

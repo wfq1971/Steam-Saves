@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<vehicles>
+    <vehicle filename="data/vehicles/deutzFahr/topLiner4090/topLiner4090.xml" id="1" isAbsolute="true" age="1.000000" price="129500.000000" farmId="1" propertyState="1" operatingTime="3262.213623" tourId="tourCombine" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="673.08563232422 65.049751281738 466.10787963867" rotation="-179.38340285144 -34.516586366902 -179.99794229183"/>
+        <component index="2" position="674.13763427734 65.736785888672 467.63760375977" rotation="-179.36554873695 -34.516555631051 -179.9988438768"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="folding" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="folding" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <washable>
+            <dirtNode amount="0.270144"/>
+            <dirtNode amount="0.349934" snowScale="0.000000"/>
+            <dirtNode amount="0.349935" snowScale="0.000000"/>
+            <dirtNode amount="0.349935" snowScale="0.000000"/>
+            <dirtNode amount="0.349956" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.040398">
+            <wearNode amount="0.053549"/>
+        </wearable>
+        <licensePlates variation="1" characters="DR-161-JV" colorIndex="1" placementIndex="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-47.764039607346 147.38803440674 0" translation="0 0 8.9999995367437" zoom="9.000010" fovY="0.950021"/>
+            <camera rotation="-27.000000751343 180.00000500896 0" translation="0.052000001072884 3.3499999046326 2.5999999046326" zoom="4.240906" fovY="1.308997"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+            <unit index="2" fillType="DIESEL" fillLevel="552.999878"/>
+            <unit index="3" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="20" cruiseControlReverse="15"/>
+        <aiFieldWorker lastTurnDirection="true"/>
+        <aiJobVehicle>
+            <lastJob type="FIELDWORK">
+                <parameter name="vehicle"/>
+                <parameter name="positionAngle" x="674.309509" z="465.126984" angle="3.141593"/>
+            </lastJob>
+        </aiJobVehicle>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <combine isSwathActive="true" workedHectars="1.675098" numAttachedCutters="1"/>
+        <pipe state="2"/>
+        <actionController lastDirection="-1" numActions="4">
+            <action name="turnOn" identifier="data/vehicles/deutzFahr/topLiner4090/topLiner4090.xml" lastDirection="-1"/>
+            <action name="turnOn" identifier="data/vehicles/deutzFahr/header4090/header4090.xml" lastDirection="-1"/>
+            <action name="lower" identifier="data/vehicles/deutzFahr/header4090/header4090.xml" lastDirection="-1"/>
+        </actionController>
+    </vehicle>
+    <vehicle filename="data/vehicles/deutzFahr/header4090/header4090.xml" id="2" isAbsolute="true" age="1.000000" price="30000.000000" farmId="1" propertyState="1" operatingTime="3254.566650">
+        <component index="1" position="670.43475341797 65.899467468262 462.25277709961" rotation="161.95714507102 -34.493875987912 -179.99684946156"/>
+        <washable>
+            <dirtNode amount="0.272391"/>
+        </washable>
+        <wearable damage="0.020593">
+            <wearNode amount="0.053929"/>
+        </wearable>
+        <cylindered>
+            <movingTool translation="-0.100769"/>
+            <movingTool rotation="-23.000000"/>
+        </cylindered>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/deutzFahr/header4090Trailer/header4090Trailer.xml" id="3" isAbsolute="true" age="1.000000" price="1000.000000" farmId="1" propertyState="1" operatingTime="0.000000" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="598.00115966797 65.090187072754 435.00042724609" rotation="-0.14935418577572 90.000002504478 0"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+            <dirtNode amount="0.000000" snowScale="0.000000"/>
+            <dirtNode amount="0.000000" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.000000">
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <licensePlates variation="1" characters="GY-120-OC" colorIndex="1" placementIndex="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/tenwinkel/weight750/weight750.xml" id="4" isAbsolute="true" age="1.000000" price="850.000000" farmId="1" propertyState="1" operatingTime="49.982433" tourId="tourWeight1" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="694.93731689453 64.72730255127 489.75241088867" rotation="-0.62087262656892 69.039429187084 -3.3632257015625"/>
+        <configuration name="baseMaterial" id="7"/>
+        <boughtConfiguration name="baseMaterial" id="7"/>
+        <washable>
+            <dirtNode amount="0.009805"/>
+        </washable>
+        <wearable damage="0.000593">
+            <wearNode amount="0.001839"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/masseyFerguson/series3670/series3670.xml" id="5" isAbsolute="true" age="1.000000" price="97000.000000" farmId="1" propertyState="1" operatingTime="7094.497559" tourId="tourTractor1" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="689.23986816406 64.939002990723 428.06048583984" rotation="-12.716132861802 -89.414484537879 12.70708969134"/>
+        <component index="2" position="687.57019042969 65.676361083984 428.07553100586" rotation="-8.0928281852651 -89.423240840395 8.0838644157531"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="frontloader" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="frontloader" id="1"/>
+        <washable>
+            <dirtNode amount="0.839410"/>
+            <dirtNode amount="0.856478" snowScale="0.000000"/>
+            <dirtNode amount="0.786942" snowScale="0.000000"/>
+            <dirtNode amount="0.792288" snowScale="0.000000"/>
+            <dirtNode amount="0.704672" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.091999">
+            <wearNode amount="0.157389"/>
+        </wearable>
+        <licensePlates variation="1" characters="BK-801-YE" colorIndex="1" placementIndex="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-27.588320354461 181.02524978439 0" translation="0 0 6.3999888673164" zoom="6.400000" fovY="0.950021"/>
+            <camera rotation="-18.000000500896 180.00000500896 0" translation="-0 2.5624840259552 -0.78157299757004" zoom="2.679036" fovY="1.047198"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="299.999512"/>
+            <unit index="2" fillType="AIR" fillLevel="1741.402100"/>
+        </fillUnit>
+        <drivable cruiseControl="39" cruiseControlReverse="20"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <aiJobVehicle>
+            <lastJob type="FIELDWORK">
+                <parameter name="vehicle"/>
+                <parameter name="positionAngle" x="809.713806" z="423.873138" angle="3.534292"/>
+            </lastJob>
+        </aiJobVehicle>
+        <attacherJoints comboDirection="-1"/>
+        <actionController lastDirection="-1" numActions="1">
+            <action name="lower" identifier="data/vehicles/rabe/eg39/eg39.xml" lastDirection="-1"/>
+        </actionController>
+    </vehicle>
+    <vehicle filename="data/vehicles/rabe/eg39/eg39.xml" id="6" isAbsolute="true" age="1.000000" price="12000.000000" farmId="1" propertyState="1" operatingTime="6819.300781" tourId="tourCultivator">
+        <component index="1" position="693.12091064453 64.906089782715 428.02191162109" rotation="-13.163215700529 -89.415153896417 12.747669552747"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable damage="0.076816">
+            <wearNode amount="0.380012"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/valtra/series8750/series8750.xml" id="7" isAbsolute="true" age="1.000000" price="108500.000000" farmId="1" propertyState="1" operatingTime="2357.065186" tourId="tourTractor2" selectedObjectIndex="3" subSelectedObjectIndex="1">
+        <component index="1" position="840.22613525391 59.794689178467 533.13439941406" rotation="179.5526412787 -67.806689324923 -179.22665000999"/>
+        <component index="2" position="839.07263183594 60.435470581055 532.66748046875" rotation="179.34141084843 -67.802987362393 -178.99744252183"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="frontloader" id="1"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="rimColor" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="frontloader" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <washable>
+            <dirtNode amount="0.052134"/>
+            <dirtNode amount="0.504364" snowScale="0.000000"/>
+            <dirtNode amount="0.504046" snowScale="0.000000"/>
+            <dirtNode amount="0.504046" snowScale="0.000000"/>
+            <dirtNode amount="0.504113" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.029288">
+            <wearNode amount="0.009775"/>
+        </wearable>
+        <licensePlates variation="1" characters="AG-181-AR" colorIndex="1" placementIndex="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-55.405171263963 162.23152506452 0" translation="0 0 6.0999999182129" zoom="6.100010" fovY="0.950021"/>
+            <camera rotation="-20.500000001282 180.00000500896 0" translation="5.3290700682145e-17 1.2208299633062e-15 -6.2844799546277e-16" zoom="0.000010" fovY="1.047198"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="248.999985"/>
+            <unit index="2" fillType="AIR" fillLevel="3099.227539"/>
+        </fillUnit>
+        <drivable cruiseControl="42" cruiseControlReverse="22"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <aiJobVehicle>
+            <lastJob type="FIELDWORK">
+                <parameter name="vehicle" vehicleId="7"/>
+                <parameter name="positionAngle" x="835.255920" z="502.380798" angle="1.178097"/>
+            </lastJob>
+        </aiJobVehicle>
+        <attacherJoints comboDirection="-1"/>
+        <reverseDriving isActive="false"/>
+        <actionController lastDirection="-1" numActions="3">
+            <action name="turnOn" identifier="data/vehicles/nordsten/ns3030/ns3030.xml" lastDirection="1"/>
+            <action name="lower" identifier="data/vehicles/nordsten/ns3030/ns3030.xml" lastDirection="1"/>
+        </actionController>
+    </vehicle>
+    <vehicle filename="data/vehicles/tenwinkel/weight750/weight750.xml" id="8" isAbsolute="true" age="1.000000" price="850.000000" farmId="1" propertyState="1" operatingTime="2348.143555" tourId="tourWeight2">
+        <component index="1" position="837.46136474609 60.381412506104 532.00964355469" rotation="175.90383128067 -67.803806985094 -179.2186996698"/>
+        <configuration name="baseMaterial" id="7"/>
+        <boughtConfiguration name="baseMaterial" id="7"/>
+        <washable>
+            <dirtNode amount="0.052020"/>
+        </washable>
+        <wearable damage="0.005526">
+            <wearNode amount="0.009753"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/nordsten/ns3030/ns3030.xml" id="9" isAbsolute="true" age="1.000000" price="33500.000000" farmId="1" propertyState="1" operatingTime="2340.874023" tourId="tourSowingMachine">
+        <component index="1" position="843.60070800781 59.699161529541 534.5107421875" rotation="-179.31209567651 -67.78828196511 -179.17348381749"/>
+        <component index="2" position="844.12750244141 60.263290405273 534.72875976563" rotation="-179.44969666753 -67.805555513521 -179.22080336806"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="folding" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="folding" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="0.123141"/>
+        </washable>
+        <wearable damage="0.005437">
+            <wearNode amount="0.020858"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="SEEDS" fillLevel="600.000000"/>
+        </fillUnit>
+        <cover state="0"/>
+        <ridgeMarker state="0"/>
+        <sowingMachine selectedSeedFruitType="WHEAT"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/steyr/series8150/series8150.xml" id="10" isAbsolute="true" age="1.000000" price="87500.000000" farmId="1" propertyState="1" operatingTime="541.407410" tourId="tourTractor3" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="686.57531738281 64.846038818359 500.52221679688" rotation="1.0010057376089 -21.315908786322 -1.0036310915711"/>
+        <component index="2" position="686.07141113281 65.470733642578 501.8415222168" rotation="1.0059993529441 -21.315640701397 -1.0181380932031"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="frontloader" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="frontloader" id="1"/>
+        <washable>
+            <dirtNode amount="0.033684"/>
+            <dirtNode amount="0.454938" snowScale="0.000000"/>
+            <dirtNode amount="0.453009" snowScale="0.000000"/>
+            <dirtNode amount="0.442145" snowScale="0.000000"/>
+            <dirtNode amount="0.442472" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.006551">
+            <wearNode amount="0.006316"/>
+        </wearable>
+        <licensePlates variation="1" characters="AY-670-KJ" colorIndex="1" placementIndex="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-15.209087382077 511.88126487213 0" translation="0 0 5.5999999182129" zoom="5.600010" fovY="0.950021"/>
+            <camera rotation="-18.000000500896 180.00000500896 0" translation="0 2.4987869262695 -0.90485197305679" zoom="2.657583" fovY="1.047198"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="168.000000"/>
+            <unit index="2" fillType="AIR" fillLevel="1361.102661"/>
+        </fillUnit>
+        <drivable cruiseControl="41" cruiseControlReverse="20"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/welger/dk115/dk115.xml" id="11" isAbsolute="true" age="1.000000" price="13000.000000" farmId="1" propertyState="1" operatingTime="497.498016" tourId="tourTrailer">
+        <component index="1" position="688.97869873047 64.758346557617 494.99389648438" rotation="0.75323182092598 -28.504602633038 -1.3014999101436"/>
+        <component index="2" position="688.32049560547 65.761421203613 496.24774169922" rotation="0.71719659663864 -22.572211093572 -1.2164328922389"/>
+        <component index="3" position="687.73889160156 65.594718933105 497.63806152344" rotation="-0.032456138461188 -22.572439904909 -1.216510478919"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="dischargeable" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="designMaterial" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <boughtConfiguration name="dischargeable" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <washable>
+            <dirtNode amount="0.034861"/>
+            <dirtNode amount="0.474493" snowScale="0.000000"/>
+            <dirtNode amount="0.469557" snowScale="0.000000"/>
+            <dirtNode amount="0.462961" snowScale="0.000000"/>
+            <dirtNode amount="0.455609" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.004635">
+            <wearNode amount="0.006537"/>
+        </wearable>
+        <licensePlates variation="1" characters="PJ-008-NR" colorIndex="1" placementIndex="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <cover state="1"/>
+        <trailer tipSideIndex="3" doorState="false" tipAnimationTime="0.000000" tipState="0"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/lizard/pickup2017/pickup2017.xml" id="12" isAbsolute="true" age="1.000000" price="46000.000000" farmId="1" propertyState="1" operatingTime="285.575104" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="588.5966796875 65.005058288574 115.80055236816" rotation="-179.99652161248 65.688155889682 -179.99999134858"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="folding" id="1"/>
+        <configuration name="baseMaterial" id="6"/>
+        <configuration name="rimColor" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="wheel" id="CONTINENTAL_DEFAULT"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="folding" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="6"/>
+        <boughtConfiguration name="wheel" id="CONTINENTAL_DEFAULT"/>
+        <washable>
+            <dirtNode amount="0.016800"/>
+            <dirtNode amount="0.016800" snowScale="0.000000"/>
+            <dirtNode amount="0.016800" snowScale="0.000000"/>
+            <dirtNode amount="0.016800" snowScale="0.000000"/>
+            <dirtNode amount="0.016800" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.003480">
+            <wearNode amount="0.003150"/>
+        </wearable>
+        <licensePlates variation="1" characters="BT-867-AM" colorIndex="1" placementIndex="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-16.914242856296 182.10808716418 0" translation="0 0 5.4000001089477" zoom="5.400010" fovY="0.950021"/>
+            <camera rotation="-10.000000562867 180.00000500896 0" translation="0.41830000281334 1.5899999141693 0.23000000417233" zoom="1.660123" fovY="1.047198"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="120.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="120" cruiseControlReverse="22"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="true"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+        <foldable foldAnimTime="0.000000"/>
+        <actionController lastDirection="-1" numActions="1"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/train/locomotive01/locomotive01.xml" id="13" isAbsolute="true" age="1.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="12647.700195" selectedObjectIndex="5" subSelectedObjectIndex="1">
+        <component index="1" position="-891.65777587891 75.107299804688 161.61169433594" rotation="-179.92935353218 1.6762186021625 -179.99999134858"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="false">
+            <camera rotation="-24.000002375408 180.00000500896 0" translation="-7.9614903527068e-19 3.4107198283799e-15 16" zoom="16.000010" fovY="0.950021"/>
+            <camera rotation="-5.0000002814333 180.00000500896 0" translation="0 0 0" zoom="0.000010" fovY="1.047198"/>
+        </enterable>
+        <drivable cruiseControl="80" cruiseControlReverse="80"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/train/wagonGrain/wagonGrain.xml" id="14" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="12647.700195">
+        <component index="1" position="-892.0087890625 75.180572509766 179.49328613281" rotation="-179.60567086741 -0.064605812204012 -179.99999134858"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
+        <cover state="0"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/train/wagonWoodChips/wagonWoodChips.xml" id="15" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="12647.700195">
+        <component index="1" position="-891.98773193359 75.27840423584 196.74615478516" rotation="-179.9697062898 -0.02961954889269 -179.99999134858"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/train/wagonTimber/wagonTimber.xml" id="16" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="12647.700195">
+        <component index="1" position="-891.98126220703 75.282783508301 214.50286865234" rotation="179.9571524021 0.0097079141197464 -179.99999134858"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+    </vehicle>
+    <vehicle filename="data/vehicles/train/wagonSugarbeets/wagonSugarbeets.xml" id="17" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="12647.700195">
+        <component index="1" position="-891.98590087891 75.262886047363 241.11401367188" rotation="179.97204221449 0.0046896481548994 -179.99999134858"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
+        <cover state="0"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/train/wagonVehicles/wagonVehicles.xml" id="18" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="12647.700195">
+        <component index="1" position="-891.98706054688 75.253868103027 262.87628173828" rotation="-179.99684946156 -0.0074050431369145 -179.99999134858"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/manitou/m504/m504.xml" id="19" isAbsolute="true" age="1.000000" price="58000.000000" farmId="1" propertyState="1" operatingTime="295.882599" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="595.65972900391 64.978782653809 428.61743164063" rotation="-1.8837070492645 -82.747639341867 3.1649604644392"/>
+        <component index="2" position="596.93646240234 65.454734802246 428.4518737793" rotation="-0.60398423679412 -82.751102247776 1.8749204377841"/>
+        <component index="3" position="594.08111572266 65.791946411133 428.81195068359" rotation="-1.8837288204925 -82.74761202111 3.1649835163277"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="BKT_DEFAULT"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="wheel" id="BKT_DEFAULT"/>
+        <washable>
+            <dirtNode amount="0.018442"/>
+            <dirtNode amount="0.018442" snowScale="0.000000"/>
+            <dirtNode amount="0.018442" snowScale="0.000000"/>
+            <dirtNode amount="0.018442" snowScale="0.000000"/>
+            <dirtNode amount="0.018442" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.003606">
+            <wearNode amount="0.003458"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+            <movingTool animationTime="0.003000"/>
+            <movingTool animationTime="0.700000"/>
+        </cylindered>
+        <wheels lastWheelConfiguration="2"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-5.0461353347084 243.18066651382 0" translation="0 0 5.9000001089477" zoom="5.900010" fovY="0.950021"/>
+            <camera rotation="-18.999999959541 180.00000500896 0" translation="0 2.2278680801392 -0.27415499091148" zoom="2.244683" fovY="1.047198"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="85.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="22" cruiseControlReverse="22"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <attachments rootVehicleId="1">
+        <attachment attachmentId="2" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="5">
+        <attachment attachmentId="6" inputJointDescIndex="1" jointIndex="1" moveDown="true"/>
+    </attachments>
+    <attachments rootVehicleId="7">
+        <attachment attachmentId="8" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
+        <attachment attachmentId="9" inputJointDescIndex="1" jointIndex="1" moveDown="true"/>
+    </attachments>
+    <attachments rootVehicleId="10">
+        <attachment attachmentId="11" inputJointDescIndex="1" jointIndex="3" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="13">
+        <attachment attachmentId="14" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="14">
+        <attachment attachmentId="15" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="15">
+        <attachment attachmentId="16" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="16">
+        <attachment attachmentId="17" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="17">
+        <attachment attachmentId="18" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+</vehicles>

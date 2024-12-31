@@ -1,0 +1,65 @@
+"949230"
+{
+	"ChangeNumber"		"-2585873949146732087"
+	"ostype"		"0"
+	"史密斯河001.cok"
+	{
+		"root"		"0"
+		"size"		"49236453"
+		"localtime"		"1714898899"
+		"time"		"1714898901"
+		"remotetime"		"1714898901"
+		"sha"		"336fee9e3d35be2ce59565a2e047211bef653600"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"史密斯河001.cok.cid"
+	{
+		"root"		"0"
+		"size"		"16"
+		"localtime"		"1714826525"
+		"time"		"1714826526"
+		"remotetime"		"1714826526"
+		"sha"		"65f9ab68ad57f484493367c3ed4ea89e7fdda89f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"faf2bd8d239130d3"
+	{
+		"root"		"0"
+		"size"		"1"
+		"localtime"		"1715914793"
+		"time"		"1715914794"
+		"remotetime"		"1698291147"
+		"sha"		"bf8b4530d8d246dd74ac53a13471bba17941dff7"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"尤里治.cok.cid"
+	{
+		"root"		"0"
+		"size"		"16"
+		"localtime"		"1715928552"
+		"time"		"1715928553"
+		"remotetime"		"1715614848"
+		"sha"		"3251f763c1951f51d9f93e472d9fc55a1b0dcb2a"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"尤里治.cok"
+	{
+		"root"		"0"
+		"size"		"72477209"
+		"localtime"		"1715928555"
+		"time"		"1715928556"
+		"remotetime"		"1715928556"
+		"sha"		"d384252464fa338a3d5c092964914c713545e451"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

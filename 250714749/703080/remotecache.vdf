@@ -1,0 +1,41 @@
+"703080"
+{
+	"ChangeNumber"		"-2358889723069373051"
+	"ostype"		"0"
+	"Frontier Developments/Planet Zoo/76561198210980477/Saves/呆丸熱帶動物園-034FA959.zoo"
+	{
+		"root"		"9"
+		"size"		"1298767"
+		"localtime"		"1709491590"
+		"time"		"1709491591"
+		"remotetime"		"1709491591"
+		"sha"		"50205d1159175a0b322e0fcc5df76ef67b1a8187"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Frontier Developments/Planet Zoo/76561198210980477/Saves/呆丸熱帶動物園-DEB8FA57.zoo_auto"
+	{
+		"root"		"9"
+		"size"		"1136914"
+		"localtime"		"1709491300"
+		"time"		"1709491300"
+		"remotetime"		"1709491300"
+		"sha"		"732bac53c62efce78a9d5f9165dc007f7191ad21"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Frontier Developments/Planet Zoo/76561198210980477/Saves/zplayer"
+	{
+		"root"		"9"
+		"size"		"3008"
+		"localtime"		"1714568378"
+		"time"		"1714568378"
+		"remotetime"		"1714568378"
+		"sha"		"7443c2219b99538f87b92731ef7b742f243c773f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

@@ -1,0 +1,121 @@
+{
+    "GameSD": {
+        "SectionSD": [
+            {
+                "LevelSD": [
+                    {
+                        "ClearedSD": true,
+                        "storySD": 5
+                    },
+                    {
+                        "ClearedSD": true,
+                        "storySD": 4
+                    },
+                    {
+                        "ClearedSD": true,
+                        "storySD": 5
+                    },
+                    {
+                        "ClearedSD": true,
+                        "storySD": 5
+                    },
+                    {
+                        "ClearedSD": true,
+                        "storySD": 3
+                    }
+                ]
+            },
+            {
+                "LevelSD": [
+                    {
+                        "ClearedSD": true,
+                        "storySD": 3
+                    },
+                    {
+                        "ClearedSD": true,
+                        "storySD": 4
+                    },
+                    {
+                        "ClearedSD": true,
+                        "storySD": 5
+                    },
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    },
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    }
+                ]
+            },
+            {
+                "LevelSD": [
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    },
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    },
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    },
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    },
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    }
+                ]
+            },
+            {
+                "LevelSD": [
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    },
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    },
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    },
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    },
+                    {
+                        "ClearedSD": false,
+                        "storySD": -1
+                    }
+                ]
+            }
+        ],
+        "LGIndex": 8
+    },
+    "DefaultSD": {
+        "VideoSD": {
+            "FPSLimitSD": 60,
+            "VSyncCountSD": 1,
+            "ResolutionSD": {
+                "x": 1920.0,
+                "y": 1080.0
+            },
+            "RefreshRateSD": 60,
+            "FullScreenSD": true
+        },
+        "SoundSD": {
+            "MasterVolumeSD": 1.0,
+            "MusicVolumeSD": 1.0,
+            "SoundVolumeSD": 1.0,
+            "VoiceVolumeSD": 1.0
+        }
+    }
+}
