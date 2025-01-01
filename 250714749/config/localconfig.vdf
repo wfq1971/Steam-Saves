@@ -1657,7 +1657,7 @@
 						"Playtime"		"1211"
 						"cloud"
 						{
-							"last_sync_state"		"changeslocally"
+							"last_sync_state"		"synchronized"
 						}
 						"autocloud"
 						{
