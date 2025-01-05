@@ -2,13 +2,21 @@
 {
 	"Software"
 	{
-		"valve"
+		"Valve"
 		{
 			"Steam"
 			{
 				"StartMenuShortcutCheck"		"1"
 				"DesktopShortcutCheck"		"1"
 			}
+		}
+	}
+	"JSClientStorage"
+	{
+		"spotlight.review.400040"
+		{
+			"rgPromptDismissals"		"2"
+			"bWasAskedToRevise"		"0"
 		}
 	}
 }

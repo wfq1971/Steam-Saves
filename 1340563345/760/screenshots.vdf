@@ -1,0 +1,45 @@
+"screenshots"
+{
+	"646910"
+	{
+		"0"
+		{
+			"type"		"1"
+			"filename"		"646910/screenshots/20250104041845_1.jpg"
+			"thumbnail"		"646910/screenshots/thumbnails/20250104041845_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"timelineid"		"timeline_64691020250103_194114"
+			"timelinetime"		"2251494"
+			"width"		"2560"
+			"height"		"1080"
+			"gameid"		"646910"
+			"creation"		"1735935525"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+			"publishedfileid"		"0"
+		}
+		"1"
+		{
+			"type"		"1"
+			"filename"		"646910/screenshots/20250104025206_1.jpg"
+			"thumbnail"		"646910/screenshots/thumbnails/20250104025206_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"timelineid"		"timeline_64691020250103_153119"
+			"timelinetime"		"12046727"
+			"width"		"2560"
+			"height"		"1080"
+			"gameid"		"646910"
+			"creation"		"1735930326"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+			"publishedfileid"		"0"
+		}
+	}
+	"shortcutnames"
+	{
+	}
+}

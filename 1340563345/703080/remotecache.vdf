@@ -1,0 +1,41 @@
+"703080"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"Frontier Developments/Planet Zoo/76561199300829073/Saves/佩斯星际动物园-949BE13A.zoo_auto"
+	{
+		"root"		"9"
+		"size"		"1370682"
+		"localtime"		"1669652619"
+		"time"		"1669652622"
+		"remotetime"		"1669652622"
+		"sha"		"593f4176d0759cdee74a1e6a3ccd98c158779c24"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Frontier Developments/Planet Zoo/76561199300829073/Saves/Goodwin House-05004881.zoo"
+	{
+		"root"		"9"
+		"size"		"11137604"
+		"localtime"		"1669642944"
+		"time"		"1669642947"
+		"remotetime"		"1669642947"
+		"sha"		"b9002f6b6013d6dea511dffdd4c277192fca6ebc"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Frontier Developments/Planet Zoo/76561199300829073/Saves/zplayer"
+	{
+		"root"		"9"
+		"size"		"2094"
+		"localtime"		"1669650576"
+		"time"		"1669650579"
+		"remotetime"		"1669650579"
+		"sha"		"9d985543f3f44f88f43cac241fe402f6a80cc7d4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}
