@@ -927,216 +927,6 @@
         <binding device="0_XINPUT_GAMEPAD" input="BUTTON_19 BUTTON_5 BUTTON_6 BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="GAMING_STATION_TOGGLE_LANGUAGE"/>
-    <actionBinding action="SPRAYCAN_CHANGE_MARKER">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_comma" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_18" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="YARDER_CARRIAGE_CONTROL_LEFTRIGHT">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_k" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_m" axisComponent="-" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_3+" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_3-" axisComponent="-" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="YARDER_CARRIAGE_CONTROL_UPDOWN">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_j" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_n" axisComponent="-" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_4+" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_4-" axisComponent="-" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="YARDER_CARRIAGE_FOLLOW_ME">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_r" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="YARDER_CARRIAGE_FOLLOW_HOME">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_x" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="YARDER_CARRIAGE_FOLLOW_PICKUP">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_12" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="YARDER_CARRIAGE_ATTACH">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_b" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_2" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="YARDER_CARRIAGE_DETACH">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_v" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_1" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="YARDER_SETUP_ROPE">
-        <binding device="KB_MOUSE_DEFAULT" input="MOUSE_BUTTON_LEFT" axisComponent="+" neutralInput="0" index="3"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="TREE_AUTOMATIC_ALIGN">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_o" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="WINCH_CONTROL">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_k" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_m" axisComponent="-" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_3+" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_3-" axisComponent="-" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="WINCH_CONTROL_VEHICLE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_k" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_m" axisComponent="-" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 AXIS_1+" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 AXIS_1-" axisComponent="-" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="WINCH_ATTACH_MODE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_r" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="WINCH_ATTACH">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_b" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_2" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="WINCH_DETACH">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALE_WRAPPER_DROP_BALE_ON_END_TURNER">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_y" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_1" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="TOGGLE_LIGHTS_EXTERNAL">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_f" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_2" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="FOLD_STATE_NEXT_POS">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_v" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="FOLD_STATE_NEXT_NEG">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_v" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="GOEWEIL_BALE_COUNTER_RESET">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_x" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="SWITCH_SEAT">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_g" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PALLET_FILLER_BUY_PALLETS">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_comma" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_18" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PM_TOGGLE_REEL_STATE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PM_TOGGLE_REEL_DIRECTION">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_z" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_17" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PM_TOGGLE_REEL_OVERLOAD">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_r" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PM_TOGGLE_REEL_UNLOAD">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_l" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PM_TOGGLE_TOOLCARRIER_STATE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PM_ATTACH">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_q" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PM_TOGGLE_PUMP_STATE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_b" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_1" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PM_LOWER_IMPLEMENT">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_v" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PM_TOGGLE_CLEAN">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_o" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="PM_TOGGLE_COMPRESSOR">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_o" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_12" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALE_COUNTER_RESET">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_x" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_HELP_SHOW">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_f1" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_9" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_START_GAME">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_s" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_2" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_RESET_GAME">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_r" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_FINISH_GAME">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_f" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_1">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_1" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_2">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_2" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_3">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_3" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_4">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_4" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_5">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_5" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_6">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_6" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_1_VEHICLE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_1" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_2_VEHICLE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_2" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_3_VEHICLE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_3" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_4_VEHICLE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_4" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_5_VEHICLE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_5" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_6_VEHICLE">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_6" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_1_VEHICLE_INDOOR">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_1" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_2_VEHICLE_INDOOR">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_2" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_3_VEHICLE_INDOOR">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_3" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_4_VEHICLE_INDOOR">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_4" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_5_VEHICLE_INDOOR">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_5" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="BALESTACKING_CAMERA_6_VEHICLE_INDOOR">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_6" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
     <actionBinding action="ARENA_OBSERVER_TOGGLE_GHOST_MODE">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_g" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_XINPUT_GAMEPAD" input="BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
@@ -1272,6 +1062,216 @@
         <binding device="KB_MOUSE_DEFAULT" input="KEY_f1" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_XINPUT_GAMEPAD" input="BUTTON_9" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
+    <actionBinding action="BALESTACKING_HELP_SHOW">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_f1" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_9" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_START_GAME">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_s" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_2" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_RESET_GAME">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_r" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_FINISH_GAME">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_f" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_1">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_1" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_2">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_2" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_3">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_4">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_4" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_5">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_5" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_6">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_6" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_1_VEHICLE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_1" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_2_VEHICLE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_2" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_3_VEHICLE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_4_VEHICLE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_4" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_5_VEHICLE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_5" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_6_VEHICLE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_6" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_1_VEHICLE_INDOOR">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_1" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_2_VEHICLE_INDOOR">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_2" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_3_VEHICLE_INDOOR">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_4_VEHICLE_INDOOR">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_4" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_5_VEHICLE_INDOOR">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_5" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALESTACKING_CAMERA_6_VEHICLE_INDOOR">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lshift KEY_6" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALE_WRAPPER_DROP_BALE_ON_END_TURNER">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_y" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_1" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="TOGGLE_LIGHTS_EXTERNAL">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_f" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_2" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="FOLD_STATE_NEXT_POS">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_v" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="FOLD_STATE_NEXT_NEG">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_v" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="GOEWEIL_BALE_COUNTER_RESET">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_x" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="SWITCH_SEAT">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_g" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="SPRAYCAN_CHANGE_MARKER">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_comma" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_18" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="YARDER_CARRIAGE_CONTROL_LEFTRIGHT">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_k" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_m" axisComponent="-" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_3+" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_3-" axisComponent="-" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="YARDER_CARRIAGE_CONTROL_UPDOWN">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_j" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_n" axisComponent="-" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_4+" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_4-" axisComponent="-" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="YARDER_CARRIAGE_FOLLOW_ME">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_r" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="YARDER_CARRIAGE_FOLLOW_HOME">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_x" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="YARDER_CARRIAGE_FOLLOW_PICKUP">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_12" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="YARDER_CARRIAGE_ATTACH">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_b" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_2" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="YARDER_CARRIAGE_DETACH">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_v" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_1" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="YARDER_SETUP_ROPE">
+        <binding device="KB_MOUSE_DEFAULT" input="MOUSE_BUTTON_LEFT" axisComponent="+" neutralInput="0" index="3"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="TREE_AUTOMATIC_ALIGN">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_o" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="WINCH_CONTROL">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_k" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_m" axisComponent="-" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_3+" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 AXIS_3-" axisComponent="-" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="WINCH_CONTROL_VEHICLE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_k" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_m" axisComponent="-" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 AXIS_1+" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 AXIS_1-" axisComponent="-" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="WINCH_ATTACH_MODE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_r" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="WINCH_ATTACH">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_b" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_2" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="WINCH_DETACH">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PALLET_FILLER_BUY_PALLETS">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_comma" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_18" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PM_TOGGLE_REEL_STATE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PM_TOGGLE_REEL_DIRECTION">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_z" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_17" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PM_TOGGLE_REEL_OVERLOAD">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_r" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PM_TOGGLE_REEL_UNLOAD">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_l" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PM_TOGGLE_TOOLCARRIER_STATE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PM_ATTACH">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_q" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PM_TOGGLE_PUMP_STATE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_b" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_1" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PM_LOWER_IMPLEMENT">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_v" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PM_TOGGLE_CLEAN">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_o" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="PM_TOGGLE_COMPRESSOR">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_o" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6 BUTTON_12" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="BALE_COUNTER_RESET">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_x" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
     <devices>
         <device id="0_XINPUT_GAMEPAD" name="XINPUT_GAMEPAD" category="1">
             <attributes axis="0" deadzone="0.140000" sensitivity="1.000000"/>
@@ -1282,24 +1282,4 @@
             <attributes axis="11" deadzone="0.140000" sensitivity="1.000000"/>
         </device>
     </devices>
-    <actionBinding action="MS_ATTACH_HOSE">
-        <binding device="KB_MOUSE_DEFAULT" input="MOUSE_BUTTON_RIGHT" axisComponent="+" neutralInput="0" index="3"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_1" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="MS_DETACH_HOSE">
-        <binding device="KB_MOUSE_DEFAULT" input="MOUSE_BUTTON_LEFT" axisComponent="+" neutralInput="0" index="3"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="MS_TOGGLE_FLOW">
-        <binding device="KB_MOUSE_DEFAULT" input="MOUSE_BUTTON_RIGHT" axisComponent="+" neutralInput="0" index="3"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_1" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="MS_ACTIVATE_PUMP">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_r" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
-    <actionBinding action="MS_TOGGLE_PUMP_DIRECTION">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_z" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_17" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
 </inputBinding>
