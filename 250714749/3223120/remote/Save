@@ -40,60 +40,60 @@
                         "storySD": 5
                     },
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 7
                     },
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 4
                     }
                 ]
             },
             {
                 "LevelSD": [
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 3
                     },
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 4
                     },
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 5
                     },
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 5
                     },
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 6
                     }
                 ]
             },
             {
                 "LevelSD": [
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 4
                     },
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 5
                     },
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 6
                     },
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 7
                     },
                     {
-                        "ClearedSD": false,
-                        "storySD": -1
+                        "ClearedSD": true,
+                        "storySD": 4
                     }
                 ]
             }

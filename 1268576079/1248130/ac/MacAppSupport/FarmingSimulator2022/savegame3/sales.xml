@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<sales>
+    <item timeLeft="4" isGenerated="true" xmlFilename="data/vehicles/weberMT/dsc180/dsc180.xml" age="34" price="5075" damage="0.248126" wear="0.495552" operatingTime="106407.320312"/>
+    <item timeLeft="14" isGenerated="true" xmlFilename="data/vehicles/kinze/machTill261/machTill261.xml" age="9" price="44146" damage="0.529973" wear="0.379283" operatingTime="19857.763672"/>
+</sales>

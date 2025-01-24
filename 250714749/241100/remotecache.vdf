@@ -1,6 +1,6 @@
 "241100"
 {
-	"ChangeNumber"		"3"
+	"ChangeNumber"		"4"
 	"ostype"		"0"
 	"250714749/config/configset_controller_xbox360.vdf"
 	{
@@ -166,6 +166,18 @@
 		"time"		"1735877875"
 		"remotetime"		"1735877875"
 		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"250714749/config/preferences_45e-2fd-ef19a7d.vdf"
+	{
+		"root"		"1"
+		"size"		"664"
+		"localtime"		"1669964750"
+		"time"		"1669964749"
+		"remotetime"		"1669964749"
+		"sha"		"e6ea2c70d5b8d2e3a3824e123e4b1bec4e14ee92"
 		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
