@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<extendedFinances>
+    <activModules>
+        <subvention>true</subvention>
+    </activModules>
+    <modules>
+        <subvention>
+            <lastSubvention>1175.280029</lastSubvention>
+            <basicPremium>175</basicPremium>
+            <greening>85</greening>
+            <firstHa>50</firstHa>
+            <furtherHa>30</furtherHa>
+            <youngFarmer>44</youngFarmer>
+        </subvention>
+    </modules>
+</extendedFinances>

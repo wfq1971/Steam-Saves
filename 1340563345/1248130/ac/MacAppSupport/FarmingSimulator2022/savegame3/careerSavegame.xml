@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>我的遊戲存檔</savegameName>
+        <creationDate>2025-01-12</creationDate>
+        <mapId>pdlc_premiumExpansion.MapPremiumExpansion</mapId>
+        <mapTitle>Zielonka</mapTitle>
+        <saveDateFormatted>12/01/2025</saveDateFormatted>
+        <saveDate>2025-01-12</saveDate>
+        <resetVehicles>false</resetVehicles>
+        <trafficEnabled>false</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <trailerFillLimit>false</trailerFillLimit>
+        <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
+        <growthMode>2</growthMode>
+        <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
+        <fruitDestruction>false</fruitDestruction>
+        <plowingRequiredEnabled>false</plowingRequiredEnabled>
+        <stonesEnabled>false</stonesEnabled>
+        <weedsEnabled>false</weedsEnabled>
+        <limeRequired>false</limeRequired>
+        <isSnowEnabled>true</isSnowEnabled>
+        <fuelUsage>2</fuelUsage>
+        <helperBuyFuel>true</helperBuyFuel>
+        <helperBuySeeds>true</helperBuySeeds>
+        <helperBuyFertilizer>true</helperBuyFertilizer>
+        <helperSlurrySource>2</helperSlurrySource>
+        <helperManureSource>2</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainTextureRevision>1</terrainTextureRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>2</splitShapesRevision>
+        <tipCollisionRevision>2</tipCollisionRevision>
+        <placementCollisionRevision>2</placementCollisionRevision>
+        <navigationCollisionRevision>2</navigationCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainTextureRevision>1</mapTerrainTextureRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>1</mapSplitShapesRevision>
+        <mapTipCollisionRevision>1</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
+        <mapNavigationCollisionRevision>1</mapNavigationCollisionRevision>
+        <difficulty>2</difficulty>
+        <economicDifficulty>1</economicDifficulty>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>360.000000</timeScale>
+        <autoSaveInterval>15.000000</autoSaveInterval>
+    </settings>
+    <guidedTour active="false" currentStepIndex="0" state=""/>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <statistics>
+        <money>55323864</money>
+        <playTime>152.416626</playTime>
+    </statistics>
+    <slotSystem slotUsage="287"/>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <foliageTypes>
+        <foliageType name="beetRoot" filename="data/foliage/beetRoot/beetRoot.xml"/>
+        <foliageType name="carrot" filename="data/foliage/carrot/carrot.xml"/>
+        <foliageType name="parsnip" filename="data/foliage/parsnip/parsnip.xml"/>
+    </foliageTypes>
+    <mod modName="pdlc_forestryPack" title="Platinum Expansion" version="1.3.0.0" required="false" fileHash="329e90792fd90c2ca716253d202aa7a4"/>
+    <mod modName="FS22_AirCompressor" title="Air Compressor" version="1.0.0.0" required="false" fileHash="aa43bd2e522adfe99e38f517f581152f"/>
+    <mod modName="pdlc_claasSaddleTracPack" title="CLAAS XERION SADDLE TRAC Pack" version="1.1.0.0" required="false" fileHash="49bfa385ca90594408a7f75db8783578"/>
+    <mod modName="FS22_trailedLoader" title="Trailed Loader" version="1.0.0.0" required="false" fileHash="8a5da0951bbabe37ba4f02593aacbd60"/>
+    <mod modName="FS22_BaleConveyorBelt" title="Bale Conveyor Belt" version="1.1.0.0" required="false" fileHash="3d0107a2631a2bfe662779906f6ec2cb"/>
+    <mod modName="pdlc_farmProductionPack" title="Farm Production Pack" version="1.0.0.1" required="false" fileHash="5aea3f24c0ffe8483b31381820c16f18"/>
+    <mod modName="pdlc_premiumExpansion" title="Premium Expansion" version="1.1.1.0" required="true" fileHash="b5aed8c67671022cdec2f0dc5f5b0066"/>
+    <mod modName="FS22_fireworks" title="Fireworks" version="1.0.0.0" required="false" fileHash="755ad0a88279004bf07d32e8999c3e45"/>
+    <mod modName="FS22_MAN_19_322" title="MAN 19.322 With Sliding Curtain" version="1.0.0.0" required="false" fileHash="75ef1ea1b8f026389a5c12d4b16d3ae7"/>
+    <mod modName="FS22_AppleJuiceFactory" title="Apple Tree With Factory" version="1.0.0.0" required="false" fileHash="ec3beef1f3a2473241d7d708b7e974c7"/>
+    <mod modName="FS22_wheelloader3Pointadapter" title="Hi-Vis 3-Point Adapter" version="1.0.1.0" required="false" fileHash="df105a3f49192d8a663bf6ae1132acb2"/>
+    <mod modName="FS22_extendedFinances" title="Extended Finances" version="1.0.0.0" required="false" fileHash="ddc295c5cd66c1514d10d5951c564175"/>
+    <mod modName="FS22_FloorWeightStation" title="Floor Plane Weighing Station" version="1.0.0.2" required="false" fileHash="955ab8bf0e052e1fb32a397788fa2042"/>
+    <mod modName="pdlc_eroPack" title="ERO Grapeliner Series 7000" version="1.0.0.0" required="false" fileHash="4fb071c73b67044650ed003f0323462e"/>
+    <mod modName="FS22_DieselTank" title="Diesel Tank" version="1.0.0.0" required="false" fileHash="4e1a4a0fbaabb128aa13319dd07e3093"/>
+    <mod modName="pdlc_kubotaPack" title="Kubota Pack" version="1.2.0.0" required="false" fileHash="a3c96144c51ba3ebb79aa95c5b647c17"/>
+    <mod modName="FS22_WorkCamera" title="Work Camera" version="1.1.1.0" required="false" fileHash="520994649a945d2a93b83b0a9e0177a4"/>
+    <mod modName="FS22_WashingStation_WbM" title="Washing Station" version="1.0.0.0" required="false" fileHash="8d784489d303d94bcb8458266c6d00ab"/>
+    <mod modName="pdlc_agiPack" title="AGI Pack" version="1.1.0.0" required="false" fileHash="1e34e6da3250471b406a092063173ec0"/>
+    <mod modName="FS22_UniversalAutoload" title="Universal Autoload" version="1.6.0.0" required="false" fileHash="cfea94c6c0277b40e0d0623b58ae7413"/>
+    <mod modName="FS22_UndergroundFarmhouseCompound" title="All-in-1 Underground Facility" version="1.0.1.1" required="false" fileHash="22b04939a8726a81107603681c85476b"/>
+    <mod modName="FS22_Teagle_TomahawkC120" title="Teagle Tomahawk C120" version="1.0.0.1" required="false" fileHash="7d5cb95dabcd8b2ae08a38837f4883f3"/>
+    <mod modName="FS22_service_PickUp" title="Lizard Servicevehicle" version="1.0.0.0" required="false" fileHash="a59763f09bcae5858f577c43d5d57f81"/>
+    <mod modName="FS22_Lizard_Modular_BGA" title="Modular BGA" version="2.0.0.0" required="false" fileHash="6f22c037e329e3d545ed76127b2576f2"/>
+    <mod modName="FS22_PassengerExtension" title="Kubota Pack Passenger Extension" version="1.1.0.0" required="false" fileHash="e9e5b1ee9e3fac06169292390e61053d"/>
+    <mod modName="FS22_HayDryingPlant_M" title="Hay Drying Plant M" version="1.0.0.0" required="false" fileHash="006fd19843b04b98e91b8ac94aa2556e"/>
+    <mod modName="FS22_foragePickup" title="LIZARD Forage Pickup" version="1.0.1.1" required="false" fileHash="4de971ed2dc9d1d58305599a05d0e24f"/>
+    <mod modName="FS22_Service_Pack" title="Service Vehicles Pack" version="1.0.5.0" required="false" fileHash="070f8cc3703ab7da5cfb6fa285cc3c0e"/>
+    <mod modName="FS22_Shipping_Warehouse" title="Shipping Warehouse" version="1.0.0.0" required="false" fileHash="3861cf31c5cc22b0f24264f02060dc74"/>
+    <mod modName="FS22_Pack_Multifruit_Container" title="Multifruit Container + ITRunner Pack" version="1.0.2.0" required="false" fileHash="0aa128d8c43216b97dca23e88aeb8d0f"/>
+    <mod modName="FS22_applePlantage" title="Apple Tree" version="1.0.0.0" required="false" fileHash="c3d1359fedf18b5d13123a7fc4d8c617"/>
+    <mod modName="FS22_lizardFloodLightTrailer" title="Flood Light Trailer" version="1.0.0.0" required="false" fileHash="79c1fd7642be3058ecd3c0a128a2dc42"/>
+    <mod modName="pdlc_pumpsAndHosesPack" title="Pumps N&apos; Hoses Pack" version="1.3.1.0" required="false" fileHash="e90a8e3aac33406b8b59eacd47949013"/>
+    <mod modName="FS22_NewHolland_T6_t4b" title="New Holland T6 Tier 4B" version="1.0.1.1" required="false" fileHash="4f958058d669c860dc9061c6e3cf0537"/>
+    <mod modName="FS22_Mobile_Ramp" title="Mobile Ramp" version="1.0.0.0" required="false" fileHash="232cb3d8c1c450daa5b7d0427a005286"/>
+    <mod modName="FS22_MCFuchsi" title="MC Fuchsi" version="1.0.0.0" required="false" fileHash="5639dd2c40da14a0f44bd19b8ab9d70a"/>
+    <mod modName="FS22_Pack_Autoload" title="Autoload Pack" version="1.0.1.0" required="false" fileHash="df64c6f23ca595e49e6f3ea8056336a8"/>
+    <mod modName="FS22_husbandryCowItaly" title="Cow Husbandry" version="1.0.0.0" required="false" fileHash="bd3f81a91cfe4b1fa7266d054e24958f"/>
+    <mod modName="FS22_AgriculturalFair" title="Agricultural Fair" version="1.2.0.0" required="false" fileHash="0446d7e1f9b86550c7a672c84ad95ce3"/>
+    <mod modName="pdlc_hayAndForagePack" title="Hay &amp; Forage Pack" version="1.0.0.0" required="false" fileHash="02c05fd4394ca1e6859575dbc4a34345"/>
+    <mod modName="pdlc_antonioCarraroPack" title="Antonio Carraro Pack" version="1.1.1.0" required="false" fileHash="a80574947b37ccca8cbf015ecca117cf"/>
+    <mod modName="pdlc_goeweilPack" title="GÖWEIL Pack" version="1.1.0.0" required="false" fileHash="3a3d0faadae2e6ed5e34b3a623113721"/>
+    <mod modName="FS22_EnhancedEconomySettings" title="Enhanced Economy Settings" version="1.1.1.0" required="false" fileHash="9dd9abef6a159aa0f44c1e7d30607131"/>
+    <mod modName="FS22_FLC253" title="Palfinger FLC-253 Pack" version="1.0.0.1" required="false" fileHash="1abe4b233bcadab0eb6bb591c7a0a853"/>
+    <mod modName="pdlc_horschAgrovation" title="HORSCH AgroVation Pack" version="1.2.0.0" required="false" fileHash="32bbc579a93af4ea866ce59a690e7461"/>
+    <mod modName="FS22_GermanSigns" title="German Road Signs" version="1.1.0.0" required="false" fileHash="47fbdf41d4b313813a90cb6547218986"/>
+    <mod modName="FS22_ArtMaster2k24" title="ArtMaster 2k24 Pack" version="1.0.1.0" required="false" fileHash="11afe0567f1df0dd8a435188bb73b73d"/>
+    <mod modName="FS22_JW_Military_4x4" title="JW Military 4x4" version="1.0.0.0" required="false" fileHash="7b303759cc47de010521b670bf36e5da"/>
+    <mod modName="pdlc_oxboPack" title="OXBO Pack" version="1.0.0.0" required="false" fileHash="a13d85053dd4e6f813a1cd9dbf571f63"/>
+    <mod modName="FS22_RM_Subsidy" title="Government Subsidy" version="1.0.0.0" required="false" fileHash="8a6b59d79f29f13b76e80eb699b9417c"/>
+    <mod modName="FS22_Lockwood_608" title="Lockwood 608 Air Cup Planter" version="1.0.0.0" required="false" fileHash="f66d8ad6e26860eb3935832b9c34d2c6"/>
+    <mod modName="pdlc_vermeerPack" title="Vermeer Pack" version="1.0.1.0" required="false" fileHash="536fa70e7a69d1b5c979743bc848cf68"/>
+</careerSavegame>

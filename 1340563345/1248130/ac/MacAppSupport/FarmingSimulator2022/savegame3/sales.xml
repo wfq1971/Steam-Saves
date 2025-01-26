@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<sales>
+    <item timeLeft="3" isGenerated="true" xmlFilename="data/vehicles/kemper/plus390/plus390.xml" age="35" price="38614" damage="0.285268" wear="0.985325" operatingTime="125959.328125"/>
+    <item timeLeft="15" isGenerated="true" xmlFilename="data/vehicles/caseIH/terraFlex3050_41/terraFlex3050_41.xml" age="35" price="23769" damage="0.350113" wear="0.853019" operatingTime="120143.453125"/>
+    <item timeLeft="12" isGenerated="true" xmlFilename="H:/SteamLibrary/steamapps/common/Farming Simulator 22/pdlc/pumpsAndHosesPack/data/vehicles/schouten/g400/g400_15.xml" age="35" price="137683" damage="0.429433" wear="0.290313" operatingTime="127607.312500">
+        <boughtConfiguration name="umbilicalReel" id="1"/>
+        <boughtConfiguration name="folding" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+    </item>
+    <item timeLeft="33" isGenerated="true" xmlFilename="H:/SteamLibrary/steamapps/common/Farming Simulator 22/pdlc/pumpsAndHosesPack/data/vehicles/schouten/hs5100/hs5100.xml" age="13" price="25405" damage="0.466140" wear="0.438537" operatingTime="33573.914062"/>
+</sales>

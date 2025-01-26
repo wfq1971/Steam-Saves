@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<players>
+    <player uniqueUserId="iLmxrTQYuj1xp1sg6cLUOXEcE+rlH7uvvrrk3lcmdKo=" timeLastConnected="2025/01/12 21:42">
+        <style filename="dataS/character/humans/player/player01.xml" faceConfigId="head01" faceConfigColor="1" footwearConfigId="galoshes" footwearConfigColor="3" glassesConfigId="sports1" glassesConfigColor="1" glovesConfigId="rubber" glovesConfigColor="42" hairStyleConfigId="hair01" hairStyleConfigColor="6" headgearConfigId="JDGreen" headgearConfigColor="70" onepieceConfigId="motion2020Suit" onepieceConfigColor="7"/>
+    </player>
+    <player uniqueUserId="PgV4t3TOGOVZ/itP6pBNlV1kpDLAOUFrbz3utm+T5Cs=" timeLastConnected="2025/01/12 21:42">
+        <style filename="dataS/character/humans/player/player01.xml" bottomConfigId="jeans" bottomConfigColor="1" faceConfigId="head01" faceConfigColor="1" footwearConfigId="workBoots2" footwearConfigColor="1" hairStyleConfigId="hair02" hairStyleConfigColor="6" topConfigId="denimJacket" topConfigColor="1"/>
+    </player>
+</players>

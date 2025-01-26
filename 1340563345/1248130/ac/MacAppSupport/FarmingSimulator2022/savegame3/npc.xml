@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<npcs>
+    <npc name="NPC_PR_01" finishedMissions="0"/>
+    <npc name="NPC_PR_02" finishedMissions="0"/>
+    <npc name="NPC_PR_03" finishedMissions="0"/>
+    <npc name="NPC_PR_04" finishedMissions="0"/>
+    <npc name="NPC_PR_05" finishedMissions="0"/>
+    <npc name="NPC_PR_06" finishedMissions="0"/>
+    <npc name="NPC_PR_07" finishedMissions="0"/>
+    <npc name="NPC_PR_08" finishedMissions="0"/>
+    <npc name="NPC_PR_09" finishedMissions="0"/>
+    <npc name="NPC_PR_10" finishedMissions="0"/>
+    <npc name="NPC_PR_11" finishedMissions="0"/>
+    <npc name="NPC_PR_12" finishedMissions="0"/>
+    <npc name="NPC_PR_13" finishedMissions="0"/>
+    <npc name="NPC_PR_14" finishedMissions="0"/>
+    <npc name="NPC_PR_15" finishedMissions="0"/>
+</npcs>
