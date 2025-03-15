@@ -1,12 +1,12 @@
 "3140130"
 {
 	"ChangeNumber"		"2"
-	"ostype"		"0"
+	"OSType"		"0"
 	"gmodecorp/kuukiyomi4/save/save"
 	{
 		"root"		"12"
 		"size"		"21884"
-		"localtime"		"1732371132"
+		"localtime"		"1732371131"
 		"time"		"1732371129"
 		"remotetime"		"1732371129"
 		"sha"		"865120ff3e5e3391a1f61468e11f09d18674fa9b"

@@ -1,12 +1,12 @@
 "241100"
 {
 	"ChangeNumber"		"0"
-	"ostype"		"0"
+	"OSType"		"0"
 	"1340563345/config/configset_45e-28e-4fe75f91.vdf"
 	{
 		"root"		"1"
 		"size"		"24"
-		"localtime"		"1667714171"
+		"localtime"		"1667714174"
 		"time"		"1667714172"
 		"remotetime"		"1667714172"
 		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
@@ -18,7 +18,7 @@
 	{
 		"root"		"1"
 		"size"		"154"
-		"localtime"		"1669637543"
+		"localtime"		"1669637547"
 		"time"		"1669637545"
 		"remotetime"		"1669637545"
 		"sha"		"ff2c52e57feb9604befba2d3b55c4647b1fca008"
@@ -30,7 +30,7 @@
 	{
 		"root"		"1"
 		"size"		"688"
-		"localtime"		"1668951528"
+		"localtime"		"1668951532"
 		"time"		"1668951530"
 		"remotetime"		"1668951530"
 		"sha"		"5906b525584dc16150a1ceb5370359916b142e34"

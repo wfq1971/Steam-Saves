@@ -1,11 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <sales>
-    <item timeLeft="9" isGenerated="true" xmlFilename="data/vehicles/horsch/terrano3FX/terrano3FX.xml" age="27" price="5747" damage="0.592700" wear="0.761851" operatingTime="87036.726562"/>
-    <item timeLeft="5" isGenerated="true" xmlFilename="data/vehicles/valtra/gSeries/gSeries.xml" age="29" price="39169" damage="0.488441" wear="0.411612" operatingTime="118894.835938">
-        <boughtConfiguration name="baseMaterial" id="33"/>
-        <boughtConfiguration name="rimColor" id="21"/>
+    <item timeLeft="12" isGenerated="true" xmlFilename="data/vehicles/valtra/nSeries/nSeries.xml" age="25" price="52774" damage="0.579068" wear="0.502525" operatingTime="49150.835938">
+        <boughtConfiguration name="frontloader" id="1"/>
+        <boughtConfiguration name="wheel" id="VREDESTEIN_BROAD"/>
+        <boughtConfiguration name="attacherJoint" id="2"/>
+        <boughtConfiguration name="attacherJoint" id="4"/>
     </item>
-    <item timeLeft="7" isGenerated="true" xmlFilename="G:/Farming Simulator 22/pdlc/pumpsAndHosesPack/data/vehicles/schouten/g400/g400_25.xml" age="14" price="212461" damage="0.212914" wear="0.455400" operatingTime="43956.164062"/>
-    <item timeLeft="5" isGenerated="true" xmlFilename="data/vehicles/claas/rollant455Uniwrap/rollant455Uniwrap.xml" age="27" price="34017" damage="0.229978" wear="0.446070" operatingTime="107353.781250"/>
-    <item timeLeft="13" isGenerated="true" xmlFilename="data/vehicles/gessner/singleRow/singleRow.xml" age="15" price="26981" damage="0.488853" wear="0.663939" operatingTime="47079.566406"/>
+    <item timeLeft="4" isGenerated="true" xmlFilename="data/vehicles/rudolphSohn/tdk301RP/tdk301RP.xml" age="18" price="16097" damage="0.389544" wear="0.532573" operatingTime="34525.757812"/>
+    <item timeLeft="11" isGenerated="true" xmlFilename="data/vehicles/man/tgx26640/tgx26640.xml" age="30" price="74133" damage="0.589310" wear="0.835317" operatingTime="75500.679688"/>
+    <item timeLeft="5" isGenerated="true" xmlFilename="data/vehicles/rudolphSohn/dk280RL/dk280RL.xml" age="11" price="14593" damage="0.244305" wear="0.224012" operatingTime="28550.478516">
+        <boughtConfiguration name="baseMaterial" id="2"/>
+    </item>
+    <item timeLeft="19" isGenerated="false" xmlFilename="data/vehicles/deutzFahr/header4090/header4090.xml" age="1" price="24773" damage="0.020623" wear="0.055435" operatingTime="4774.339355"/>
+    <item timeLeft="24" isGenerated="false" xmlFilename="data/vehicles/lizard/pickup2017/pickup2017.xml" age="1" price="39489" damage="0.024440" wear="0.008548" operatingTime="1973.089844">
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="folding" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="CONTINENTAL_DEFAULT"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="6"/>
+    </item>
+    <item timeLeft="20" isGenerated="true" xmlFilename="data/vehicles/wilsonTrailer/silverstar/silverstar.xml" age="11" price="46668" damage="0.588990" wear="0.330324" operatingTime="29777.416016"/>
 </sales>

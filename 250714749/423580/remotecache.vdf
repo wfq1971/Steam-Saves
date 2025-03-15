@@ -1,7 +1,7 @@
 "423580"
 {
-	"ChangeNumber"		"0"
-	"ostype"		"0"
+	"ChangeNumber"		"12"
+	"OSType"		"0"
 	"SomaSim/Project Highrise/prefs/gameplay.txt"
 	{
 		"root"		"12"
@@ -18,7 +18,7 @@
 	{
 		"root"		"12"
 		"size"		"244100"
-		"localtime"		"1567755349"
+		"localtime"		"1567755350"
 		"time"		"1567755348"
 		"remotetime"		"1567755348"
 		"sha"		"eeeaee70df8aa265c1ee7e5f8ba1aba2f137d3f5"
@@ -30,7 +30,7 @@
 	{
 		"root"		"12"
 		"size"		"5487579"
-		"localtime"		"1567755349"
+		"localtime"		"1567755351"
 		"time"		"1567755348"
 		"remotetime"		"1567755348"
 		"sha"		"b88b715bf7a2f855bedb46ed9b7ac1c2eb94b396"
@@ -54,7 +54,7 @@
 	{
 		"root"		"12"
 		"size"		"5874059"
-		"localtime"		"1567769180"
+		"localtime"		"1567769182"
 		"time"		"1567769179"
 		"remotetime"		"1567769179"
 		"sha"		"df75c621bc14625f782995e140c9333737447b24"
@@ -66,7 +66,7 @@
 	{
 		"root"		"12"
 		"size"		"238382"
-		"localtime"		"1567566552"
+		"localtime"		"1567566554"
 		"time"		"1567566551"
 		"remotetime"		"1567566551"
 		"sha"		"d1716b466fb22d930dc72556e7269b3842e4c701"
@@ -78,7 +78,7 @@
 	{
 		"root"		"12"
 		"size"		"2841050"
-		"localtime"		"1567566552"
+		"localtime"		"1567566554"
 		"time"		"1567566551"
 		"remotetime"		"1567566551"
 		"sha"		"234d41a7bdb6c109524dd14c16b341281d00440e"
@@ -102,10 +102,34 @@
 	{
 		"root"		"12"
 		"size"		"1242972"
-		"localtime"		"1572704090"
+		"localtime"		"1572704091"
 		"time"		"1572704089"
 		"remotetime"		"1572704089"
 		"sha"		"b48275c57ddc4c48583b799641933915825fcb95"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SomaSim/Project Highrise/saves/疏港大道1號.png"
+	{
+		"root"		"12"
+		"size"		"187164"
+		"localtime"		"1727441256"
+		"time"		"1727441253"
+		"remotetime"		"1727441253"
+		"sha"		"c9870bddf48a91de96fb5bcc69e6a51471de973a"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SomaSim/Project Highrise/saves/疏港大道1號.sion"
+	{
+		"root"		"12"
+		"size"		"1823759"
+		"localtime"		"1727441255"
+		"time"		"1727441253"
+		"remotetime"		"1727441253"
+		"sha"		"0b8c71bdc069456b5fe0de86075e33cfbb39b2d9"
 		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
@@ -126,7 +150,7 @@
 	{
 		"root"		"12"
 		"size"		"1165356"
-		"localtime"		"1729343875"
+		"localtime"		"1729343876"
 		"time"		"1729343873"
 		"remotetime"		"1729343873"
 		"sha"		"c00fee2649e02cbb764ff6943bd8fffe0e521498"
@@ -138,7 +162,7 @@
 	{
 		"root"		"12"
 		"size"		"241864"
-		"localtime"		"1729348312"
+		"localtime"		"1729348313"
 		"time"		"1729348311"
 		"remotetime"		"1729348311"
 		"sha"		"bd4d4ae51aca962e4b6fa60c3c3341418c43ed15"
@@ -150,7 +174,7 @@
 	{
 		"root"		"12"
 		"size"		"1827032"
-		"localtime"		"1729348313"
+		"localtime"		"1729348314"
 		"time"		"1729348311"
 		"remotetime"		"1729348311"
 		"sha"		"d634516b320f5883b4b192d2451f08e157c59542"
@@ -174,7 +198,7 @@
 	{
 		"root"		"12"
 		"size"		"1262158"
-		"localtime"		"1729344352"
+		"localtime"		"1729344354"
 		"time"		"1729344351"
 		"remotetime"		"1729344351"
 		"sha"		"4bfc46f9567e7fe07c1a46609af458da6e0517e9"
@@ -186,7 +210,7 @@
 	{
 		"root"		"12"
 		"size"		"169590"
-		"localtime"		"1591115039"
+		"localtime"		"1591115041"
 		"time"		"1591115038"
 		"remotetime"		"1591115038"
 		"sha"		"731605f5cc6858797e689af56b274d0320bc08e8"
@@ -198,7 +222,7 @@
 	{
 		"root"		"12"
 		"size"		"5231389"
-		"localtime"		"1591115039"
+		"localtime"		"1591115041"
 		"time"		"1591115038"
 		"remotetime"		"1591115038"
 		"sha"		"fd420f8aecb9576930255e036c2349071bd9ee5d"
@@ -222,7 +246,7 @@
 	{
 		"root"		"12"
 		"size"		"5638185"
-		"localtime"		"1591191955"
+		"localtime"		"1591191956"
 		"time"		"1591191954"
 		"remotetime"		"1591191954"
 		"sha"		"066c157b668471628c4135cb95532b162e8af160"
@@ -246,7 +270,7 @@
 	{
 		"root"		"12"
 		"size"		"5084213"
-		"localtime"		"1591114689"
+		"localtime"		"1591114690"
 		"time"		"1591114687"
 		"remotetime"		"1591114687"
 		"sha"		"f90b62858bfb8c0d749ad9cfcaeffba87146a6db"
@@ -294,7 +318,7 @@
 	{
 		"root"		"12"
 		"size"		"5340876"
-		"localtime"		"1591115015"
+		"localtime"		"1591115017"
 		"time"		"1591115014"
 		"remotetime"		"1591115014"
 		"sha"		"1e694d019f796845837ee08cd11bbc497398a8c1"
@@ -306,7 +330,7 @@
 	{
 		"root"		"12"
 		"size"		"198362"
-		"localtime"		"1567781024"
+		"localtime"		"1567781025"
 		"time"		"1567781023"
 		"remotetime"		"1567781023"
 		"sha"		"ab1ce770d2f39ec95cf789a641d7da844af8725d"
@@ -318,34 +342,10 @@
 	{
 		"root"		"12"
 		"size"		"568688"
-		"localtime"		"1567781025"
+		"localtime"		"1567781026"
 		"time"		"1567781023"
 		"remotetime"		"1567781023"
 		"sha"		"431fb4418dbf51f0bd4919738c8df14087435857"
-		"syncstate"		"1"
-		"persiststate"		"0"
-		"platformstosync2"		"-1"
-	}
-	"SomaSim/Project Highrise/saves/疏港大道1號.sion"
-	{
-		"root"		"12"
-		"size"		"1823759"
-		"localtime"		"1727441254"
-		"time"		"1727441253"
-		"remotetime"		"1727441253"
-		"sha"		"0b8c71bdc069456b5fe0de86075e33cfbb39b2d9"
-		"syncstate"		"1"
-		"persiststate"		"0"
-		"platformstosync2"		"-1"
-	}
-	"SomaSim/Project Highrise/saves/疏港大道1號.png"
-	{
-		"root"		"12"
-		"size"		"187164"
-		"localtime"		"1727441254"
-		"time"		"1727441253"
-		"remotetime"		"1727441253"
-		"sha"		"c9870bddf48a91de96fb5bcc69e6a51471de973a"
 		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"

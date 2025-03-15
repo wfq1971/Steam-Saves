@@ -1,0 +1,76 @@
+{
+    "medals": [
+        {
+            "id": "sc_earthquake",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_heat",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_blizzard",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_frankenstorm",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_shootout",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_planecrash",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_summit",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_pandemic",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_last_duty",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_areafire",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_concert",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_concordia",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_tsunami",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_water_landing",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_riot",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_areafire_basic",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_tornado",
+            "difficulty": "HARD"
+        },
+        {
+            "id": "sc_rain",
+            "difficulty": "HARD"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+"controller_mappings"
+{
+	"version"		"2"
+	"title"		"Official Cities: Skylines Bindings"
+	"description"		"Paradox Interactive Cities: Skylines Steam controller bindings."
+	"creator"		"76561197969363440"
+	"group"
+	{
+		"id"		"0"
+		"Mode"		"four_buttons"
+		"bindings"
+		{
+			"button_A"		"key_press 1, Speed 1"
+			"button_B"		"key_press SPACE, Pause"
+			"button_X"		"key_press 2, Speed 2"
+			"button_Y"		"key_press 3, Speed 3"
+		}
+		"settings"
+		{
+			"hold_repeat_inverval"		"99"
+			"button_size"		"17992"
+			"button_dist"		"19992"
+		}
+	}
+	"group"
+	{
+		"id"		"1"
+		"Mode"		"dpad"
+		"bindings"
+		{
+			"dpad_north"		"key_press Y, Game Areas"
+			"dpad_south"		"key_press B, Bulldoze"
+			"dpad_east"		"key_press U, Unlocking Panel"
+			"dpad_west"		"key_press I, Info Views"
+		}
+		"settings"
+		{
+			"hold_repeat_inverval"		"99"
+			"deadzone"		"5000"
+			"edge_binding_radius"		"24996"
+			"analog_emulation_period"		"29"
+		}
+	}
+	"group"
+	{
+		"id"		"2"
+		"Mode"		"absolute_mouse"
+		"bindings"
+		{
+			"click"		"mouse_button MIDDLE, Use"
+		}
+		"settings"
+		{
+			"sensitivity"		"142"
+			"rotation"		"15"
+			"doubetap_max_duration"		"320"
+		}
+	}
+	"group"
+	{
+		"id"		"3"
+		"Mode"		"dpad"
+		"bindings"
+		{
+			"dpad_north"		"key_press W, Camera Up"
+			"dpad_south"		"key_press S, Camera Down"
+			"dpad_east"		"key_press D, Camera Right"
+			"dpad_west"		"key_press A, Camera Left"
+			"click"		"mouse_button MIDDLE, Middle Mouse Button"
+		}
+		"settings"
+		{
+			"requires_click"		"0"
+			"hold_repeat_inverval"		"99"
+			"edge_binding_radius"		"24995"
+			"analog_emulation_period"		"29"
+		}
+	}
+	"group"
+	{
+		"id"		"4"
+		"Mode"		"trigger"
+		"bindings"
+		{
+			"edge"		"mouse_button RIGHT, Right Mouse Button"
+		}
+		"settings"
+		{
+			"hold_repeat_inverval"		"99"
+			"edge_binding_radius"		"5084"
+			"adaptive_threshold"		"0"
+		}
+	}
+	"group"
+	{
+		"id"		"5"
+		"Mode"		"trigger"
+		"bindings"
+		{
+			"edge"		"mouse_button LEFT, Left Mouse Button"
+		}
+		"settings"
+		{
+			"hold_repeat_inverval"		"99"
+			"edge_binding_radius"		"5084"
+			"adaptive_threshold"		"0"
+		}
+	}
+	"group"
+	{
+		"id"		"6"
+		"Mode"		"four_buttons"
+		"settings"
+		{
+			"button_size"		"17996"
+			"button_dist"		"19996"
+		}
+	}
+	"group"
+	{
+		"id"		"7"
+		"Mode"		"relative_mouse"
+		"settings"
+		{
+			"sensitivity"		"98"
+			"virtual_cap_size"		"7498"
+		}
+	}
+	"group"
+	{
+		"id"		"8"
+		"Mode"		"scrollwheel"
+		"settings"
+		{
+			"scroll_angle"		"89"
+		}
+	}
+	"group"
+	{
+		"id"		"9"
+		"Mode"		"joystick_camera"
+	}
+	"group"
+	{
+		"id"		"10"
+		"Mode"		"scrollwheel"
+		"settings"
+		{
+			"scroll_angle"		"88"
+		}
+	}
+	"preset"
+	{
+		"id"		"0"
+		"name"		""
+		"group_source_bindings"
+		{
+			"0"		"button_diamond active"
+			"1"		"left_trackpad active"
+			"2"		"right_trackpad active"
+			"3"		"joystick active"
+			"6"		"joystick inactive"
+			"7"		"joystick inactive"
+			"8"		"joystick inactive"
+			"9"		"joystick inactive"
+			"10"		"joystick inactive modeshift"
+			"4"		"left_trigger active"
+			"5"		"right_trigger active"
+		}
+		"switch_bindings"
+		{
+			"bindings"
+			{
+				"button_back_left"		"key_press PAGE_DOWN, Build Elevation Down"
+				"button_back_right"		"key_press PAGE_UP, Build Elevation Up"
+				"left_click"		"mode_shift joystick 10"
+				"button_menu"		"key_press F12, Screenshot"
+				"button_escape"		"key_press ESCAPE, Esc"
+				"right_bumper"		"key_press Z, Zoom In"
+				"left_bumper"		"key_press X, Zoom Out"
+			}
+		}
+		"settings"
+		{
+		}
+	}
+}

@@ -1,12 +1,12 @@
 "1574000"
 {
 	"ChangeNumber"		"11"
-	"ostype"		"0"
+	"OSType"		"0"
 	"IdlePinballBreakout"
 	{
 		"root"		"0"
 		"size"		"34422"
-		"localtime"		"1731720989"
+		"localtime"		"1731720990"
 		"time"		"1731720988"
 		"remotetime"		"1731720988"
 		"sha"		"eab57c0a91fe8da1fd00f1372673bd39daf593e1"
@@ -18,7 +18,7 @@
 	{
 		"root"		"0"
 		"size"		"169526"
-		"localtime"		"1731720971"
+		"localtime"		"1731720972"
 		"time"		"1731720970"
 		"remotetime"		"1731720970"
 		"sha"		"b9ee40e3b82f724c131f05d2a83f9637058e9fef"

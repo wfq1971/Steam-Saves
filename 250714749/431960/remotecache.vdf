@@ -1,12 +1,12 @@
 "431960"
 {
 	"ChangeNumber"		"2"
-	"ostype"		"0"
+	"OSType"		"0"
 	"statsutility.bin"
 	{
 		"root"		"0"
 		"size"		"1613"
-		"localtime"		"1734355915"
+		"localtime"		"1734355916"
 		"time"		"1734355913"
 		"remotetime"		"1734355913"
 		"sha"		"1adad6738eb43cba246bd9b15d70088997109c53"

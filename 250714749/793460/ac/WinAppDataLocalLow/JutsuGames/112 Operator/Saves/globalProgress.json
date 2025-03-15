@@ -1,0 +1,493 @@
+{
+    "teamMemberSwapUnlocked": true,
+    "gearSwapUnlocked": true,
+    "vehicleSwapUnlocked": true,
+    "newSquadUnlocked": true,
+    "predefinedSquadsUnlocked": true,
+    "dispatchersUnlocked": true,
+    "reinforcementsUnlocked": true,
+    "areaFireUnlocked": true,
+    "advancedMembersUnlock": true,
+    "dogUnlock": true,
+    "defuseRobotUnlock": true,
+    "maxUnlockedCareerStage": "SENIOR",
+    "unlockedVehicles": [
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_firetruck"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_techtruck"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_polcar"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_polvan"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_medvan"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_medtrans"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_firevan"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_polbike"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_medbike"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_quad"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_bicycle"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_horse"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_polpickup"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_ladder"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_swatvan"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_polcannon"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_firetank"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_medcar"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_speedcar"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_unmarked"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_medheli"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_fireheli"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_polheli"
+        },
+        {
+            "assignedSquad": null,
+            "boughtOnDutyNumber": 0,
+            "ofTypeId": "ve_polhelibig"
+        }
+    ],
+    "unlockedGears": [
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_tonfa"
+                },
+                {
+                    "ofTypeId": "e_handcuffs"
+                },
+                {
+                    "ofTypeId": "e_pistol"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_basic",
+            "Name": null,
+            "Description": null,
+            "Type": "POLICE",
+            "Price": 2200
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_tonfa"
+                },
+                {
+                    "ofTypeId": "e_handcuffs"
+                },
+                {
+                    "ofTypeId": "e_taser"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_unarmed",
+            "Name": null,
+            "Description": null,
+            "Type": "POLICE",
+            "Price": 1200
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_firesuit"
+                },
+                {
+                    "ofTypeId": "e_exting"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_fire",
+            "Name": null,
+            "Description": null,
+            "Type": "FIRE",
+            "Price": 2500
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_stethoscope"
+                },
+                {
+                    "ofTypeId": "e_firstmedkit"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_paramedic",
+            "Name": null,
+            "Description": null,
+            "Type": "MEDICAL",
+            "Price": 2100
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_tonfa"
+                },
+                {
+                    "ofTypeId": "e_handcuffs"
+                },
+                {
+                    "ofTypeId": "e_pistol"
+                },
+                {
+                    "ofTypeId": "e_vest"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_protected",
+            "Name": null,
+            "Description": null,
+            "Type": "POLICE",
+            "Price": 5200
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_techtools"
+                },
+                {
+                    "ofTypeId": "e_firesuit"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_techfire",
+            "Name": null,
+            "Description": null,
+            "Type": "FIRE",
+            "Price": 4500
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_stethoscope"
+                },
+                {
+                    "ofTypeId": "e_firstmedkit"
+                },
+                {
+                    "ofTypeId": "e_medicvest"
+                },
+                {
+                    "ofTypeId": "e_resuscitator"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_lifesaver",
+            "Name": null,
+            "Description": null,
+            "Type": "MEDICAL",
+            "Price": 6300
+        },
+        {
+            "HatType": "SWAT",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_tonfa"
+                },
+                {
+                    "ofTypeId": "e_handcuffs"
+                },
+                {
+                    "ofTypeId": "e_shotgun"
+                },
+                {
+                    "ofTypeId": "e_vest"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_swat",
+            "Name": null,
+            "Description": null,
+            "Type": "POLICE",
+            "Price": 7200
+        },
+        {
+            "HatType": "SWAT",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_tonfa"
+                },
+                {
+                    "ofTypeId": "e_handcuffs"
+                },
+                {
+                    "ofTypeId": "e_rifle"
+                },
+                {
+                    "ofTypeId": "e_vest"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_swat_rifle",
+            "Name": null,
+            "Description": null,
+            "Type": "POLICE",
+            "Price": 10200
+        },
+        {
+            "HatType": "RIOT",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_rubbershotgun"
+                },
+                {
+                    "ofTypeId": "e_riotcont"
+                },
+                {
+                    "ofTypeId": "e_handcuffs"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_riot",
+            "Name": null,
+            "Description": null,
+            "Type": "POLICE",
+            "Price": 4600
+        },
+        {
+            "HatType": "HEAVY_FIRE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_firemask"
+                },
+                {
+                    "ofTypeId": "e_firesuit"
+                },
+                {
+                    "ofTypeId": "e_exting"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_heavyfire",
+            "Name": null,
+            "Description": null,
+            "Type": "FIRE",
+            "Price": 6500
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_stethoscope"
+                },
+                {
+                    "ofTypeId": "e_firstmedkit"
+                },
+                {
+                    "ofTypeId": "e_cardiomonitor"
+                },
+                {
+                    "ofTypeId": "e_medicvest"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_advmedic",
+            "Name": null,
+            "Description": null,
+            "Type": "MEDICAL",
+            "Price": 9600
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_tonfa"
+                },
+                {
+                    "ofTypeId": "e_handcuffs"
+                },
+                {
+                    "ofTypeId": "e_pistol"
+                },
+                {
+                    "ofTypeId": "e_searchvest"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_polsearch",
+            "Name": null,
+            "Description": null,
+            "Type": "POLICE",
+            "Price": 4200
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_techtools"
+                },
+                {
+                    "ofTypeId": "e_searchvest"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_firesearch",
+            "Name": null,
+            "Description": null,
+            "Type": "FIRE",
+            "Price": 5000
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_stethoscope"
+                },
+                {
+                    "ofTypeId": "e_firstmedkit"
+                },
+                {
+                    "ofTypeId": "e_searchvest"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_searchmedic",
+            "Name": null,
+            "Description": null,
+            "Type": "MEDICAL",
+            "Price": 4100
+        },
+        {
+            "HatType": "BOMB",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_handcuffs"
+                },
+                {
+                    "ofTypeId": "e_bombsuit"
+                },
+                {
+                    "ofTypeId": "e_bombdefuse"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_bomb",
+            "Name": null,
+            "Description": null,
+            "Type": "POLICE",
+            "Price": 8100
+        },
+        {
+            "HatType": "NONE",
+            "EquipmentList": [
+                {
+                    "ofTypeId": "e_stethoscope"
+                },
+                {
+                    "ofTypeId": "e_ekg"
+                },
+                {
+                    "ofTypeId": "e_medicvest"
+                },
+                {
+                    "ofTypeId": "e_resuscitator"
+                },
+                {
+                    "ofTypeId": "e_medicbag"
+                },
+                {
+                    "ofTypeId": "e_defib"
+                }
+            ],
+            "HiddenInShop": false,
+            "Id": "ge_advlifesaver",
+            "Name": null,
+            "Description": null,
+            "Type": "MEDICAL",
+            "Price": 14300
+        }
+    ]
+}

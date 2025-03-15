@@ -31,9 +31,7 @@
     <tipTypeMapping fillType="TARP" index="29"/>
     <tipTypeMapping fillType="LIME" index="30"/>
     <tipTypeMapping fillType="STONE" index="31"/>
-    <tipTypeMapping fillType="IRONORE" index="32"/>
-    <tipTypeMapping fillType="SEPARATED_MANURE" index="33"/>
-    <tipTypeMapping fillType="BEETROOT" index="34"/>
-    <tipTypeMapping fillType="CARROT" index="35"/>
-    <tipTypeMapping fillType="PARSNIP" index="36"/>
+    <tipTypeMapping fillType="BEETROOT" index="32"/>
+    <tipTypeMapping fillType="CARROT" index="33"/>
+    <tipTypeMapping fillType="PARSNIP" index="34"/>
 </tipTypeMappings>

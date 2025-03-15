@@ -4,6 +4,8 @@
 True
 [AutoSave]
 True
+[BuildModeSaveInterval]
+10
 [Backup]
 True
 [RunInBackground]
@@ -53,7 +55,7 @@ False
 [ConsoleVerbose]
 False
 [LastVersion]
-Beta 1.6.8
+Beta 1.8.8
 [Language]
 Chinese (Simplified)
 [Keys]
@@ -111,6 +113,7 @@ AutoCompleteRoom=B,0
 ShiftGrid=V,0
 ReportScreen=P,0
 ShowFurnitureInfluence=K,0
+DisableGrid=LeftAlt,0
 [AltKeys]
 ToggleLights=Escape,0
 ToggleWalls=Escape,0
@@ -166,6 +169,7 @@ AutoCompleteRoom=Escape,0
 ShiftGrid=Escape,0
 ReportScreen=Escape,0
 ShowFurnitureInfluence=Escape,0
+DisableGrid=Escape,0
 [IgnoreQuestions]
 Sell furniture
 Set release date
@@ -178,6 +182,10 @@ DocPageComplexityPrompt
 Cancel support
 Marketing without release date
 Cancel work
+Delete button
+GenericDesignPromote
+ResearchCancel
+Overwrite save file
 [UnlockedRewards]
 FirstSoftware
 HireEmployee
@@ -189,6 +197,10 @@ OwnLand
 Servers
 Prints
 HeatCool
+BuyLand
+Subsidiary
 [FavoriteFurniture]
 Painting
 Floor Plant
+CubicleWall2
+Pallet
