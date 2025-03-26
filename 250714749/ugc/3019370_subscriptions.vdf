@@ -1,0 +1,53 @@
+"subscribedfiles"
+{
+	"appid"		"3019370"
+	"time_last_updated"		"1742565777"
+	"0"
+	{
+		"publishedfileid"		"3301474941"
+		"time_subscribed"		"1742560932"
+		"disabled_locally"		"0"
+	}
+	"1"
+	{
+		"publishedfileid"		"3300757212"
+		"time_subscribed"		"1742561054"
+		"disabled_locally"		"0"
+	}
+	"2"
+	{
+		"publishedfileid"		"3305077209"
+		"time_subscribed"		"1742561049"
+		"disabled_locally"		"0"
+	}
+	"3"
+	{
+		"publishedfileid"		"3303676234"
+		"time_subscribed"		"1742561044"
+		"disabled_locally"		"0"
+	}
+	"4"
+	{
+		"publishedfileid"		"3304673680"
+		"time_subscribed"		"1742561040"
+		"disabled_locally"		"0"
+	}
+	"5"
+	{
+		"publishedfileid"		"3291865362"
+		"time_subscribed"		"1742561028"
+		"disabled_locally"		"0"
+	}
+	"6"
+	{
+		"publishedfileid"		"3374390924"
+		"time_subscribed"		"1742560989"
+		"disabled_locally"		"0"
+	}
+	"7"
+	{
+		"publishedfileid"		"3301563374"
+		"time_subscribed"		"1742560965"
+		"disabled_locally"		"0"
+	}
+}

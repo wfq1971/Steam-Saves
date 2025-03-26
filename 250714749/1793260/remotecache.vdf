@@ -1,12 +1,12 @@
 "1793260"
 {
-	"ChangeNumber"		"1"
-	"ostype"		"0"
+	"ChangeNumber"		"0"
+	"OSType"		"0"
 	"DigiFox/Delivery INC/Saves/Game/Auto-Save_09-04-2024-12-03-33"
 	{
 		"root"		"12"
 		"size"		"23764"
-		"localtime"		"1712635413"
+		"localtime"		"1712635415"
 		"time"		"1715219833"
 		"remotetime"		"1712635413"
 		"sha"		"9921eaacb4ecc01526505f936a33d835cf08b5b3"
@@ -18,7 +18,7 @@
 	{
 		"root"		"12"
 		"size"		"2158"
-		"localtime"		"1712635413"
+		"localtime"		"1712635415"
 		"time"		"1715219833"
 		"remotetime"		"1712635413"
 		"sha"		"1d02e4eb690904307dc939e35ac49ddd63c3a9d7"
@@ -30,7 +30,7 @@
 	{
 		"root"		"12"
 		"size"		"7534"
-		"localtime"		"1714448712"
+		"localtime"		"1714448714"
 		"time"		"1715219833"
 		"remotetime"		"1714448712"
 		"sha"		"78e11df43e6af660d9b8295d56b04f54e9eb778f"
@@ -42,7 +42,7 @@
 	{
 		"root"		"12"
 		"size"		"3154"
-		"localtime"		"1714448712"
+		"localtime"		"1714448714"
 		"time"		"1715219833"
 		"remotetime"		"1714448712"
 		"sha"		"d56ca9d538174f9c312cd944df93eb4f8bf5a44a"
@@ -54,7 +54,7 @@
 	{
 		"root"		"12"
 		"size"		"15666"
-		"localtime"		"1712245835"
+		"localtime"		"1712245837"
 		"time"		"1715219833"
 		"remotetime"		"1712245835"
 		"sha"		"0fb7485a925b061750bc53fb6fd8564270d1a4d7"
@@ -66,7 +66,7 @@
 	{
 		"root"		"12"
 		"size"		"2162"
-		"localtime"		"1712245835"
+		"localtime"		"1712245838"
 		"time"		"1715219833"
 		"remotetime"		"1712245835"
 		"sha"		"b3e368d7ada44f24e5a5ad0a88da07b2bb966523"
@@ -78,7 +78,7 @@
 	{
 		"root"		"12"
 		"size"		"22720"
-		"localtime"		"1712635595"
+		"localtime"		"1712635597"
 		"time"		"1712635596"
 		"remotetime"		"1712635596"
 		"sha"		"dc3543702e2335911db09fbc187c68f208738766"
@@ -90,7 +90,7 @@
 	{
 		"root"		"12"
 		"size"		"2162"
-		"localtime"		"1712635596"
+		"localtime"		"1712635598"
 		"time"		"1712635596"
 		"remotetime"		"1712635596"
 		"sha"		"563014a67a80fe0b0c6f83ecad68cb4f09534103"
@@ -102,7 +102,7 @@
 	{
 		"root"		"12"
 		"size"		"7534"
-		"localtime"		"1714448717"
+		"localtime"		"1714448720"
 		"time"		"1715219833"
 		"remotetime"		"1714448717"
 		"sha"		"78e11df43e6af660d9b8295d56b04f54e9eb778f"
@@ -114,7 +114,7 @@
 	{
 		"root"		"12"
 		"size"		"3158"
-		"localtime"		"1714448717"
+		"localtime"		"1714448719"
 		"time"		"1715219833"
 		"remotetime"		"1714448717"
 		"sha"		"086e7782f05de431e612b9cafd202106a1ea0c72"
@@ -126,7 +126,7 @@
 	{
 		"root"		"12"
 		"size"		"30365"
-		"localtime"		"1714461822"
+		"localtime"		"1714461825"
 		"time"		"1714461823"
 		"remotetime"		"1714461823"
 		"sha"		"95906c6a0125987126fe099b25f258d71e2e5d38"
@@ -138,7 +138,7 @@
 	{
 		"root"		"12"
 		"size"		"2187"
-		"localtime"		"1714461823"
+		"localtime"		"1714461826"
 		"time"		"1715219833"
 		"remotetime"		"1714461823"
 		"sha"		"020aa7d7d680c0074480914ccbff6ea0250d42bb"
@@ -150,7 +150,7 @@
 	{
 		"root"		"12"
 		"size"		"2763"
-		"localtime"		"1714460737"
+		"localtime"		"1714460739"
 		"time"		"1715219834"
 		"remotetime"		"1714460737"
 		"sha"		"9a30c52bf1209dc54bd043a46fc23d434c00d10f"
@@ -174,7 +174,7 @@
 	{
 		"root"		"12"
 		"size"		"41301"
-		"localtime"		"1718283759"
+		"localtime"		"1718283758"
 		"time"		"1718283757"
 		"remotetime"		"1718283757"
 		"sha"		"3714df7a061b56ad2defe00ea930b8bb70a07401"

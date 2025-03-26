@@ -1,7 +1,7 @@
 "793460"
 {
 	"ChangeNumber"		"0"
-	"ostype"		"0"
+	"OSType"		"0"
 	"JutsuGames/112 Operator/CitySuggestions/2277730366_v1.0.json"
 	{
 		"root"		"12"
@@ -30,7 +30,7 @@
 	{
 		"root"		"12"
 		"size"		"814"
-		"localtime"		"1712070455"
+		"localtime"		"1712070456"
 		"time"		"1712070455"
 		"remotetime"		"1712070455"
 		"sha"		"867b68a903da4a355cc0780c85ff9f0adc8536f0"
@@ -54,7 +54,7 @@
 	{
 		"root"		"12"
 		"size"		"6048"
-		"localtime"		"1712118862"
+		"localtime"		"1712118863"
 		"time"		"1712118862"
 		"remotetime"		"1712118862"
 		"sha"		"162a463f0a96e0957509fc81027efc858762089c"
@@ -138,7 +138,7 @@
 	{
 		"root"		"12"
 		"size"		"439"
-		"localtime"		"1712118823"
+		"localtime"		"1712118825"
 		"time"		"1712118823"
 		"remotetime"		"1712118823"
 		"sha"		"9c4fc6bda16ad16404c75701c34cbc07fced5940"
@@ -150,7 +150,7 @@
 	{
 		"root"		"12"
 		"size"		"6688512"
-		"localtime"		"1712118823"
+		"localtime"		"1712118824"
 		"time"		"1712118823"
 		"remotetime"		"1712118823"
 		"sha"		"f5ac47c2c7cf3c8c64c2ba09a23887948af89bc0"
@@ -186,7 +186,7 @@
 	{
 		"root"		"12"
 		"size"		"394"
-		"localtime"		"1712114697"
+		"localtime"		"1712114699"
 		"time"		"1712114697"
 		"remotetime"		"1712114697"
 		"sha"		"316e9c46e739721bd43b397e6991049501c6cc3d"
@@ -198,7 +198,7 @@
 	{
 		"root"		"12"
 		"size"		"2058152"
-		"localtime"		"1712114696"
+		"localtime"		"1712114698"
 		"time"		"1712114697"
 		"remotetime"		"1712114697"
 		"sha"		"473c697e48bf48f3518d8980383d33925cb3de24"
@@ -306,7 +306,7 @@
 	{
 		"root"		"12"
 		"size"		"1669"
-		"localtime"		"1712115189"
+		"localtime"		"1712115191"
 		"time"		"1712115189"
 		"remotetime"		"1712115189"
 		"sha"		"fe3cf647c1b5002cfc6d3e74050c73f1857a522e"
