@@ -1,8 +1,5 @@
 "screenshots"
 {
-	"1562430"
-	{
-	}
 	"423580"
 	{
 		"0"
@@ -66,6 +63,35 @@
 			"Permissions"		"8"
 			"hscreenshot"		"11927200037221623"
 			"publishedfileid"		"3444165292"
+		}
+	}
+	"646910"
+	{
+		"0"
+		{
+			"type"		"1"
+			"filename"		"646910/screenshots/20250104041845_1.jpg"
+			"thumbnail"		"646910/screenshots/thumbnails/20250104041845_1.jpg"
+			"imported"		"0"
+			"width"		"2560"
+			"height"		"1080"
+			"gameid"		"646910"
+			"creation"		"1742012080"
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"1"
+		{
+			"type"		"1"
+			"filename"		"646910/screenshots/20250104025206_1.jpg"
+			"thumbnail"		"646910/screenshots/thumbnails/20250104025206_1.jpg"
+			"imported"		"0"
+			"width"		"2560"
+			"height"		"1080"
+			"gameid"		"646910"
+			"creation"		"1742012080"
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
 		}
 	}
 	"shortcutnames"

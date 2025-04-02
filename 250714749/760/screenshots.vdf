@@ -905,6 +905,22 @@
 		"0"
 		{
 			"type"		"1"
+			"filename"		"2967990/screenshots/20250327142250_1.jpg"
+			"thumbnail"		"2967990/screenshots/thumbnails/20250327142250_1.jpg"
+			"imported"		"1"
+			"timelineid"		"timeline_296799020250327_033054"
+			"timelinetime"		"10318802"
+			"width"		"2560"
+			"height"		"1080"
+			"gameid"		"2967990"
+			"creation"		"1743056570"
+			"Permissions"		"8"
+			"hscreenshot"		"7424783176591413"
+			"publishedfileid"		"3452831193"
+		}
+		"1"
+		{
+			"type"		"1"
 			"filename"		"2967990/screenshots/20250325101158_1.jpg"
 			"thumbnail"		"2967990/screenshots/thumbnails/20250325101158_1.jpg"
 			"imported"		"1"
@@ -915,7 +931,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"1"
+		"2"
 		{
 			"type"		"1"
 			"filename"		"2967990/screenshots/20250325100622_1.jpg"

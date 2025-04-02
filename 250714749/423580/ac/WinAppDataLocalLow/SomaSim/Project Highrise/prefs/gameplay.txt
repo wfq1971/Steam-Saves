@@ -1,0 +1,26 @@
+﻿{
+  medals {
+    s7-victory-gold #true
+    s9-victory-gold #true
+    s7-victory-bronze #true
+    s5-victory-silver #true
+    s1-victory-gold #true
+    s5-victory-gold #true
+    s5-victory-bronze #true}
+  onetimehints {
+    hints.peep.pathing #true
+    hints.unit.upset #true
+    hints.peep.upset #true
+    ui.moveins.hint.a #true
+    hints.broken.elevator #true
+    hints.hotels.firstbadreview #true
+    ui.toomanyvisitors.hint #true
+    hints.rain #true
+    hints.peep.stairs #true}
+  tutorials {
+    tutorial2 1
+    tutorial3 1
+    tutorial4 1
+    tutorialui 1
+    tutorialep1 1
+    tutorial1 1}}

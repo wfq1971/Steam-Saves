@@ -1,6 +1,6 @@
 "241100"
 {
-	"ChangeNumber"		"0"
+	"ChangeNumber"		"1"
 	"OSType"		"0"
 	"1340563345/config/configset_45e-28e-4fe75f91.vdf"
 	{
@@ -34,6 +34,42 @@
 		"time"		"1668951530"
 		"remotetime"		"1668951530"
 		"sha"		"5906b525584dc16150a1ceb5370359916b142e34"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1340563345/config/configset_45e-2ff-4fe75f91.vdf"
+	{
+		"root"		"1"
+		"size"		"24"
+		"localtime"		"1743348195"
+		"time"		"1743348194"
+		"remotetime"		"1743348194"
+		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1340563345/config/preferences_45e-2ff-4fe75f91.vdf"
+	{
+		"root"		"1"
+		"size"		"829"
+		"localtime"		"1743348196"
+		"time"		"1743348195"
+		"remotetime"		"1743348195"
+		"sha"		"c76345a7f3ef6589c3b7e0f46ab0e0382b600d03"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1340563345/config/configset_controller_xboxone.vdf"
+	{
+		"root"		"1"
+		"size"		"24"
+		"localtime"		"1743348196"
+		"time"		"1743348195"
+		"remotetime"		"1743348195"
+		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
 		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
