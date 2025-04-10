@@ -1,6 +1,6 @@
 "241100"
 {
-	"ChangeNumber"		"1"
+	"ChangeNumber"		"5"
 	"OSType"		"0"
 	"1340563345/config/configset_45e-28e-4fe75f91.vdf"
 	{
@@ -66,9 +66,33 @@
 	{
 		"root"		"1"
 		"size"		"24"
-		"localtime"		"1743348196"
-		"time"		"1743348195"
-		"remotetime"		"1743348195"
+		"localtime"		"1744078778"
+		"time"		"1744078777"
+		"remotetime"		"1744078777"
+		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1340563345/config/preferences_45e-b13-4fe75f91.vdf"
+	{
+		"root"		"1"
+		"size"		"834"
+		"localtime"		"1744078778"
+		"time"		"1744078777"
+		"remotetime"		"1744078777"
+		"sha"		"7eda391f66aad13a694a83a5a88aabb79054b0fe"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1340563345/config/configset_45e-b13-4fe75f91.vdf"
+	{
+		"root"		"1"
+		"size"		"24"
+		"localtime"		"1744078778"
+		"time"		"1744078777"
+		"remotetime"		"1744078777"
 		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
 		"syncstate"		"1"
 		"persiststate"		"0"

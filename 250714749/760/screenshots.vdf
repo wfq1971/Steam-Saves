@@ -532,21 +532,6 @@
 		"0"
 		{
 			"type"		"1"
-			"filename"		"1293830/screenshots/20250124161347_1.jpg"
-			"thumbnail"		"1293830/screenshots/thumbnails/20250124161347_1.jpg"
-			"imported"		"1"
-			"timelineid"		"timeline_129383020250124_070206"
-			"timelinetime"		"4301238"
-			"width"		"2560"
-			"height"		"1080"
-			"gameid"		"1293830"
-			"creation"		"1737706427"
-			"Permissions"		"2"
-			"hscreenshot"		"18446744073709551615"
-		}
-		"1"
-		{
-			"type"		"1"
 			"filename"		"1293830/screenshots/20250102134624_1.jpg"
 			"thumbnail"		"1293830/screenshots/thumbnails/20250102134624_1.jpg"
 			"imported"		"1"
@@ -560,7 +545,7 @@
 			"hscreenshot"		"7416500519991845"
 			"publishedfileid"		"3398380882"
 		}
-		"2"
+		"1"
 		{
 			"type"		"1"
 			"filename"		"1293830/screenshots/20241231202832_1.jpg"
@@ -576,7 +561,7 @@
 			"hscreenshot"		"7416500517835253"
 			"publishedfileid"		"3397818316"
 		}
-		"3"
+		"2"
 		{
 			"type"		"1"
 			"filename"		"1293830/screenshots/20241231202625_1.jpg"
@@ -592,7 +577,7 @@
 			"hscreenshot"		"7416500517836376"
 			"publishedfileid"		"3397818730"
 		}
-		"4"
+		"3"
 		{
 			"type"		"1"
 			"filename"		"1293830/screenshots/20241231202252_1.jpg"
@@ -608,7 +593,7 @@
 			"hscreenshot"		"7416500517838276"
 			"publishedfileid"		"3397819325"
 		}
-		"5"
+		"4"
 		{
 			"type"		"1"
 			"filename"		"1293830/screenshots/20241231201312_1.jpg"
@@ -944,6 +929,22 @@
 			"gameid"		"2967990"
 			"creation"		"1742868382"
 			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+	}
+	"2698940"
+	{
+		"0"
+		{
+			"type"		"1"
+			"filename"		"2698940/screenshots/20250409235356_1.jpg"
+			"thumbnail"		"2698940/screenshots/thumbnails/20250409235356_1.jpg"
+			"imported"		"1"
+			"width"		"2560"
+			"height"		"1080"
+			"gameid"		"2698940"
+			"creation"		"1744214036"
+			"Permissions"		"8"
 			"hscreenshot"		"18446744073709551615"
 		}
 	}
