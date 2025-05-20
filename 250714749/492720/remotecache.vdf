@@ -1,6 +1,6 @@
 "492720"
 {
-	"ChangeNumber"		"11"
+	"ChangeNumber"		"12"
 	"OSType"		"0"
 	"Tropico6/Saved/SaveGames/Trop6_AutoSave0.t6sav"
 	{
@@ -41,11 +41,11 @@
 	"Tropico6/Saved/SaveGames/Trop6_Profile.t6sav"
 	{
 		"root"		"1"
-		"size"		"1712"
-		"localtime"		"1739458398"
-		"time"		"1739458395"
-		"remotetime"		"1739458395"
-		"sha"		"5d10015f419ef950041f63b79b2b441c05556a42"
+		"size"		"1738"
+		"localtime"		"1744780789"
+		"time"		"1744780788"
+		"remotetime"		"1744780788"
+		"sha"		"e8a5c712659226aa35f305743e5abce6633f195c"
 		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"

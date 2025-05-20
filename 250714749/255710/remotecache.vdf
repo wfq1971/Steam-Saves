@@ -1,6 +1,6 @@
 "255710"
 {
-	"ChangeNumber"		"4"
+	"ChangeNumber"		"6"
 	"OSType"		"0"
 	"新建存档.crp"
 	{
@@ -41,11 +41,11 @@
 	"新金華2.crp"
 	{
 		"root"		"0"
-		"size"		"17253283"
-		"localtime"		"1733022536"
-		"time"		"1733022534"
-		"remotetime"		"1733022534"
-		"sha"		"9b066975df36f516a377086a3e83df1733e63743"
+		"size"		"17280611"
+		"localtime"		"1745653535"
+		"time"		"1745653533"
+		"remotetime"		"1745653533"
+		"sha"		"40fcde4c699bb3db50677134df224588ea2c01a2"
 		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
