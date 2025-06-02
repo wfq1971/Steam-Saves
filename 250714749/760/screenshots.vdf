@@ -867,19 +867,6 @@
 	}
 	"1293830"
 	{
-		"0"
-		{
-			"type"		"1"
-			"filename"		"1293830/screenshots/20250419191233_1.jpg"
-			"thumbnail"		"1293830/screenshots/thumbnails/20250419191233_1.jpg"
-			"imported"		"0"
-			"width"		"2560"
-			"height"		"1080"
-			"gameid"		"1293830"
-			"creation"		"1745061156"
-			"Permissions"		"2"
-			"hscreenshot"		"18446744073709551615"
-		}
 	}
 	"960090"
 	{
@@ -1405,9 +1392,6 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-	}
-	"227300"
-	{
 	}
 	"shortcutnames"
 	{
