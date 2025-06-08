@@ -1,0 +1,65 @@
+"2797310"
+{
+	"ChangeNumber"		"2"
+	"OSType"		"0"
+	"azucat/HypnoticIdol/Steam/saveload/game00.json"
+	{
+		"root"		"12"
+		"size"		"4438"
+		"localtime"		"1749138748"
+		"time"		"1749138747"
+		"remotetime"		"1749138747"
+		"sha"		"20914b064e67431d3a9f8da6597b61252e0632c9"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"azucat/HypnoticIdol/Steam/saveload/game01.json"
+	{
+		"root"		"12"
+		"size"		"4383"
+		"localtime"		"1736609320"
+		"time"		"1736609319"
+		"remotetime"		"1736609319"
+		"sha"		"0fb3647d0563219a569d9c1c0bb3dfc909edbcf1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"azucat/HypnoticIdol/Steam/saveload/gameconfig.json"
+	{
+		"root"		"12"
+		"size"		"2251"
+		"localtime"		"1749137351"
+		"time"		"1749137350"
+		"remotetime"		"1749137350"
+		"sha"		"0af05db273e43bed06d9350e1a882d20117aa528"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"azucat/HypnoticIdol/Steam/saveload/language.json"
+	{
+		"root"		"12"
+		"size"		"11"
+		"localtime"		"1736607645"
+		"time"		"1736607643"
+		"remotetime"		"1736607643"
+		"sha"		"99fbdd501f2fd4e83ecc509d0ec81831fe2c716c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"azucat/HypnoticIdol/Steam/saveload/game02.json"
+	{
+		"root"		"12"
+		"size"		"4438"
+		"localtime"		"1749138764"
+		"time"		"1749138763"
+		"remotetime"		"1749138763"
+		"sha"		"8d478e595f683a90b46c0124c19d258016acdb12"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

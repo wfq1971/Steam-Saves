@@ -865,9 +865,6 @@
 			"hscreenshot"		"18446744073709551615"
 		}
 	}
-	"1293830"
-	{
-	}
 	"960090"
 	{
 		"0"
@@ -1389,6 +1386,22 @@
 			"height"		"1080"
 			"gameid"		"1190970"
 			"creation"		"1747732282"
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+	}
+	"457140"
+	{
+		"0"
+		{
+			"type"		"1"
+			"filename"		"457140/screenshots/20250604194337_1.jpg"
+			"thumbnail"		"457140/screenshots/thumbnails/20250604194337_1.jpg"
+			"imported"		"1"
+			"width"		"2560"
+			"height"		"1080"
+			"gameid"		"457140"
+			"creation"		"1749037417"
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
