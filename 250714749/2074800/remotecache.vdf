@@ -1,0 +1,29 @@
+"2074800"
+{
+	"ChangeNumber"		"2"
+	"OSType"		"0"
+	"STE-76561198210980477/main"
+	{
+		"root"		"0"
+		"size"		"299"
+		"localtime"		"1749528482"
+		"time"		"1749528481"
+		"remotetime"		"1749528481"
+		"sha"		"aca7060503865fa5d969b2390dd22ba69bae20e0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"STE-76561198210980477/auto"
+	{
+		"root"		"0"
+		"size"		"1527867"
+		"localtime"		"1749528451"
+		"time"		"1749528450"
+		"remotetime"		"1749528450"
+		"sha"		"5d5e1a07df6c4cea4b173849e2546180c96f5f5f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

@@ -1,6 +1,6 @@
 "362620"
 {
-	"ChangeNumber"		"0"
+	"ChangeNumber"		"11"
 	"OSType"		"0"
 	"Hints.bin"
 	{
@@ -77,11 +77,35 @@
 	"sharedsettings.txt"
 	{
 		"root"		"1"
-		"size"		"3491"
-		"localtime"		"1729348494"
-		"time"		"1729348491"
-		"remotetime"		"1729348491"
-		"sha"		"969b94b426ca0754e0fe7a5ee154971bbd0c862e"
+		"size"		"3532"
+		"localtime"		"1749486498"
+		"time"		"1749486497"
+		"remotetime"		"1749486497"
+		"sha"		"94b7284ee661aa45220791fa27c68aefef0ba728"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Logos.txt"
+	{
+		"root"		"1"
+		"size"		"158"
+		"localtime"		"1749434778"
+		"time"		"1749434777"
+		"remotetime"		"1749434777"
+		"sha"		"f6f313862d994ed6aebd02cb43bca64a7beee318"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Saves/Autosave 4.sav"
+	{
+		"root"		"1"
+		"size"		"1914494"
+		"localtime"		"1749486810"
+		"time"		"1749486809"
+		"remotetime"		"1749486809"
+		"sha"		"e6b6ac2ba6afba7a68aee2bd37a0b1c713bb87a9"
 		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"

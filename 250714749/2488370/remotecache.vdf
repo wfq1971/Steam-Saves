@@ -1,0 +1,29 @@
+"2488370"
+{
+	"ChangeNumber"		"1"
+	"OSType"		"0"
+	"CashCleanerSimulator/Saved/SaveGames/PlayerDataSlot1_Backup.sav"
+	{
+		"root"		"3"
+		"size"		"124800"
+		"localtime"		"1749387794"
+		"time"		"1749387793"
+		"remotetime"		"1749387793"
+		"sha"		"8e0e47558b3f6d763398a08d05cbbf4ea9f98cfd"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"CashCleanerSimulator/Saved/SaveGames/PlayerDataSlot1.sav"
+	{
+		"root"		"3"
+		"size"		"218750"
+		"localtime"		"1749388435"
+		"time"		"1749388434"
+		"remotetime"		"1749388434"
+		"sha"		"218087030dc6fbb1bc5181f4d26de048f77f1a70"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}
