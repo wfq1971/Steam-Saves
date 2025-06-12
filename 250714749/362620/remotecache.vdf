@@ -1,6 +1,6 @@
 "362620"
 {
-	"ChangeNumber"		"11"
+	"ChangeNumber"		"12"
 	"OSType"		"0"
 	"Hints.bin"
 	{
@@ -8,9 +8,9 @@
 		"size"		"37"
 		"localtime"		"1749713380"
 		"time"		"1749713380"
-		"remotetime"		"1727012928"
+		"remotetime"		"1749713380"
 		"sha"		"712c25b01fb72ec354a676b4de4f6eb5aa6a8bbd"
-		"syncstate"		"3"
+		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
 	}

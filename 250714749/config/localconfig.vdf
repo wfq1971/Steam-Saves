@@ -297,7 +297,7 @@
 						"Playtime"		"4213"
 						"cloud"
 						{
-							"last_sync_state"		"synchronized"
+							"last_sync_state"		"changeslocally"
 						}
 						"362620_eula_0"		"0"
 						"autocloud"
@@ -1150,7 +1150,7 @@
 						"autocloud"
 						{
 							"lastlaunch"		"1749707806"
-							"lastexit"		"1749707604"
+							"lastexit"		"1749724635"
 						}
 					}
 					"1262580"
