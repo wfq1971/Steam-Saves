@@ -1,0 +1,77 @@
+"860890"
+{
+	"ChangeNumber"		"4"
+	"OSType"		"0"
+	"Saved Games/_Autosave.sav"
+	{
+		"root"		"0"
+		"size"		"607920"
+		"localtime"		"1749542404"
+		"time"		"1749542403"
+		"remotetime"		"1749542403"
+		"sha"		"5eadf28a79c1729fbdebe718d913329c72c612e9"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Saved Games/1.sav"
+	{
+		"root"		"0"
+		"size"		"550615"
+		"localtime"		"1749535670"
+		"time"		"1749535669"
+		"remotetime"		"1749535669"
+		"sha"		"73ced19fcec85d8bd702377df531a694ca665225"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Saved Games/1_Autosave.sav"
+	{
+		"root"		"0"
+		"size"		"549984"
+		"localtime"		"1749535570"
+		"time"		"1749535570"
+		"remotetime"		"1749535570"
+		"sha"		"d2f20c6aadbdf1b9765e14b9b794d2a34655fb87"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Player Data/PlayerProgress.dat"
+	{
+		"root"		"0"
+		"size"		"115"
+		"localtime"		"1749535660"
+		"time"		"1749535659"
+		"remotetime"		"1749535659"
+		"sha"		"66d3a698f3287c033021fcf8bc75bc0dea3fd7a6"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Saved Games/島嶼.sav"
+	{
+		"root"		"0"
+		"size"		"796399"
+		"localtime"		"1749707552"
+		"time"		"1749707552"
+		"remotetime"		"1749707552"
+		"sha"		"72d6058c645331fc76b6ee51d4cbb7ba881e4303"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Saved Games/島嶼_Autosave.sav"
+	{
+		"root"		"0"
+		"size"		"798816"
+		"localtime"		"1749707069"
+		"time"		"1749707069"
+		"remotetime"		"1749627044"
+		"sha"		"5cc45a3f76619726057b92e666835fe2b87b9e95"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
