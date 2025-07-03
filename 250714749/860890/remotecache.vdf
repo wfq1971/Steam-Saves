@@ -1,6 +1,6 @@
 "860890"
 {
-	"ChangeNumber"		"4"
+	"ChangeNumber"		"5"
 	"OSType"		"0"
 	"Saved Games/_Autosave.sav"
 	{
@@ -68,9 +68,9 @@
 		"size"		"798816"
 		"localtime"		"1749707069"
 		"time"		"1749707069"
-		"remotetime"		"1749627044"
+		"remotetime"		"1749707069"
 		"sha"		"5cc45a3f76619726057b92e666835fe2b87b9e95"
-		"syncstate"		"3"
+		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
 	}
