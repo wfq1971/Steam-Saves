@@ -1,0 +1,43 @@
+SiiNunit
+{
+album_landmarks_info : _nameless.10e.bcaa.6360 {
+ landmarks: 6
+ landmarks[0]: _nameless.10e.bcaa.6a60
+ landmarks[1]: _nameless.10e.bcaa.6420
+ landmarks[2]: _nameless.10e.bcaa.6760
+ landmarks[3]: _nameless.10e.bcaa.6460
+ landmarks[4]: _nameless.10e.bcaa.6c20
+ landmarks[5]: _nameless.10b.8f00.14e0
+}
+
+album_landmarks_data : _nameless.10e.bcaa.6a60 {
+ landmark_id: kallithea
+ screenshot_file: "ets2_20250710_205510_00.png"
+}
+
+album_landmarks_data : _nameless.10e.bcaa.6420 {
+ landmark_id: athens
+ screenshot_file: "ets2_20250711_220721_00.png"
+}
+
+album_landmarks_data : _nameless.10e.bcaa.6760 {
+ landmark_id: kalamata
+ screenshot_file: "ets2_20250711_223741_00.png"
+}
+
+album_landmarks_data : _nameless.10e.bcaa.6460 {
+ landmark_id: argostoli
+ screenshot_file: "ets2_20250712_124155_00.png"
+}
+
+album_landmarks_data : _nameless.10e.bcaa.6c20 {
+ landmark_id: kavala
+ screenshot_file: "ets2_20250713_122125_00.png"
+}
+
+album_landmarks_data : _nameless.10b.8f00.14e0 {
+ landmark_id: brno
+ screenshot_file: "ets2_20250715_104500_00.png"
+}
+
+}

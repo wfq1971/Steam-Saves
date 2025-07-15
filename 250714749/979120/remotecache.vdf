@@ -1,6 +1,6 @@
 "979120"
 {
-	"ChangeNumber"		"1"
+	"ChangeNumber"		"2"
 	"OSType"		"0"
 	"Denki Ltd/Autonauts/Saves/001/Recording.txt"
 	{
@@ -214,6 +214,42 @@
 		"time"		"1751531803"
 		"remotetime"		"1751531803"
 		"sha"		"91afeec139b6cf8aff9ff97c87551f82ec6c6c10"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Denki Ltd/Autonauts/Saves/005/Thumbnail.jpg"
+	{
+		"root"		"12"
+		"size"		"58478"
+		"localtime"		"1751704292"
+		"time"		"1751704291"
+		"remotetime"		"1751704291"
+		"sha"		"6b715786349b766199035f71ec0f2eeb444d28ff"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Denki Ltd/Autonauts/Saves/005/Summary.txt"
+	{
+		"root"		"12"
+		"size"		"619"
+		"localtime"		"1751704292"
+		"time"		"1751704291"
+		"remotetime"		"1751704291"
+		"sha"		"966b042de84a72716dc139a607411cafa17398c5"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Denki Ltd/Autonauts/Saves/005/World.txt"
+	{
+		"root"		"12"
+		"size"		"571947"
+		"localtime"		"1751704293"
+		"time"		"1751704292"
+		"remotetime"		"1751704292"
+		"sha"		"1564d9f5a5b870a2a360c7c01c7ec913d0bee11b"
 		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
