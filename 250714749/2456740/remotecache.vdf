@@ -1,0 +1,41 @@
+"2456740"
+{
+	"ChangeNumber"		"0"
+	"OSType"		"0"
+	"inZOI/SaveGames/20250723-121903/20250723-121903.thumbnail"
+	{
+		"root"		"2"
+		"size"		"528"
+		"localtime"		"1753273399"
+		"time"		"1753273398"
+		"remotetime"		"1753273398"
+		"sha"		"8e73d464044f281c9646e336d3656e2455666fbf"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"inZOI/SaveGames/20250723-121903/20250723-121903.b2"
+	{
+		"root"		"2"
+		"size"		"3516250"
+		"localtime"		"1753273399"
+		"time"		"1753273398"
+		"remotetime"		"1753273398"
+		"sha"		"90c936dd640c087f87974ac42ecbbc9e776dd5fa"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"inZOI/SaveGames/20250723-121903/20250723-121903.b1"
+	{
+		"root"		"2"
+		"size"		"7970"
+		"localtime"		"1753273396"
+		"time"		"1753273395"
+		"remotetime"		"1753273395"
+		"sha"		"bdf77fd0f6d1a1f6530af51ba71fcd1643ad9d63"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}
