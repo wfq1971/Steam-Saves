@@ -1,0 +1,23 @@
+"subscribedfiles"
+{
+	"appid"		"731650"
+	"time_last_updated"		"1763265467"
+	"0"
+	{
+		"publishedfileid"		"3534792020"
+		"time_subscribed"		"1763265530"
+		"disabled_locally"		"0"
+	}
+	"1"
+	{
+		"publishedfileid"		"3427324795"
+		"time_subscribed"		"1763265455"
+		"disabled_locally"		"0"
+	}
+	"2"
+	{
+		"publishedfileid"		"3414523151"
+		"time_subscribed"		"1763265434"
+		"disabled_locally"		"0"
+	}
+}

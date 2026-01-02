@@ -1,6 +1,6 @@
 "628200"
 {
-	"ChangeNumber"		"24"
+	"ChangeNumber"		"0"
 	"OSType"		"0"
 	"1072480/screenshots/20210217154157_1.jpg"
 	{
@@ -12098,6 +12098,18 @@
 		"persiststate"		"0"
 		"platformstosync2"		"0"
 	}
+	"2253720/screenshots/20250921203519_1.jpg"
+	{
+		"root"		"0"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"0"
+	}
 	"2253720/screenshots/thumbnails/20240516113758_1.jpg"
 	{
 		"root"		"0"
@@ -12207,6 +12219,18 @@
 		"platformstosync2"		"0"
 	}
 	"2253720/screenshots/thumbnails/20240906222621_1.jpg"
+	{
+		"root"		"0"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"0"
+	}
+	"2253720/screenshots/thumbnails/20250921203519_1.jpg"
 	{
 		"root"		"0"
 		"size"		"0"
