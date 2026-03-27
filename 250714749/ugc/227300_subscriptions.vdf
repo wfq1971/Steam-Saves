@@ -1,7 +1,7 @@
 "subscribedfiles"
 {
 	"appid"		"227300"
-	"time_last_updated"		"1764854137"
+	"time_last_updated"		"1771569664"
 	"0"
 	{
 		"publishedfileid"		"3459254922"
@@ -382,89 +382,83 @@
 	}
 	"63"
 	{
-		"publishedfileid"		"1563192193"
-		"time_subscribed"		"1609159337"
-		"disabled_locally"		"0"
-	}
-	"64"
-	{
 		"publishedfileid"		"1285816442"
 		"time_subscribed"		"1609159190"
 		"disabled_locally"		"0"
 	}
-	"65"
+	"64"
 	{
 		"publishedfileid"		"767703983"
 		"time_subscribed"		"1602999278"
 		"disabled_locally"		"0"
 	}
-	"66"
+	"65"
 	{
 		"publishedfileid"		"2239473586"
 		"time_subscribed"		"1602568719"
 		"disabled_locally"		"0"
 	}
-	"67"
+	"66"
 	{
 		"publishedfileid"		"2244946818"
 		"time_subscribed"		"1602568711"
 		"disabled_locally"		"0"
 	}
-	"68"
+	"67"
 	{
 		"publishedfileid"		"2244450184"
 		"time_subscribed"		"1602568710"
 		"disabled_locally"		"0"
 	}
-	"69"
+	"68"
 	{
 		"publishedfileid"		"2227644893"
 		"time_subscribed"		"1602568706"
 		"disabled_locally"		"0"
 	}
-	"70"
+	"69"
 	{
 		"publishedfileid"		"2249268572"
 		"time_subscribed"		"1602568688"
 		"disabled_locally"		"0"
 	}
-	"71"
+	"70"
 	{
 		"publishedfileid"		"2249447462"
 		"time_subscribed"		"1602568675"
 		"disabled_locally"		"0"
 	}
-	"72"
+	"71"
 	{
 		"publishedfileid"		"2253647832"
 		"time_subscribed"		"1602407980"
 		"disabled_locally"		"0"
 	}
-	"73"
+	"72"
 	{
 		"publishedfileid"		"771574300"
 		"time_subscribed"		"1602407658"
 		"disabled_locally"		"0"
 	}
-	"74"
+	"73"
 	{
 		"publishedfileid"		"1254665283"
 		"time_subscribed"		"1601516755"
 		"disabled_locally"		"0"
 	}
-	"75"
+	"74"
 	{
 		"publishedfileid"		"1254608894"
 		"time_subscribed"		"1601516753"
 		"disabled_locally"		"0"
 	}
-	"76"
+	"75"
 	{
 		"publishedfileid"		"831269333"
 		"time_subscribed"		"1576852963"
 		"disabled_locally"		"0"
 	}
-	"77"
+	"76"
 	{
 		"publishedfileid"		"1813425921"
 		"time_subscribed"		"1576826922"
