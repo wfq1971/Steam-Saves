@@ -6,17 +6,13 @@
 		{
 			"Steam"
 			{
-				"SurveyDate"		"2025-06-01"
+				"SurveyDate"		"2017-06-30"
 				"SurveyDateVersion"		"4781687628786023964"
 				"StartMenuShortcutCheck"		"1"
 				"DesktopShortcutCheck"		"1"
 				"apps"
 				{
-					"3185000"
-					{
-						"cloudenabled"		"1"
-					}
-					"2659050"
+					"1144200"
 					{
 						"cloudenabled"		"0"
 					}
@@ -26,34 +22,10 @@
 	}
 	"JSClientStorage"
 	{
-		"library.review.1574000"
-		{
-			"rtDismissedReviseReviewReminder"		"1731672576"
-		}
 		"timeline_intro"
 		{
-			"rtSeen"		"1732793216"
-			"rtLinkDismissed"		"1732793216"
-		}
-		"spotlight.review.1293830"
-		{
-			"rgPromptDismissals"		"2"
-			"bWasAskedToRevise"		"0"
-		}
-		"spotlight.review.457140"
-		{
-			"rgPromptDismissals"		"3"
-			"bWasAskedToRevise"		"0"
-		}
-		"spotlight.review.673610"
-		{
-			"rgPromptDismissals"		"3"
-			"bWasAskedToRevise"		"0"
-		}
-		"spotlight.review.2897240"
-		{
-			"rgPromptDismissals"		"3"
-			"bWasAskedToRevise"		"0"
+			"rtSeen"		"1785753728"
+			"rtLinkDismissed"		"0"
 		}
 	}
 }

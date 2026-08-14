@@ -1,4 +1,0 @@
-﻿{
-  medals {}
-  onetimehints {}
-  tutorials {}}

@@ -1,0 +1,29 @@
+"3928990"
+{
+	"ChangeNumber"		"1"
+	"ostype"		"0"
+	"Bewolba Studios/Food Processing Simulator/76561198210980477/Saves/slot_1/SaveData.sav"
+	{
+		"root"		"12"
+		"size"		"62080"
+		"localtime"		"1778685985"
+		"time"		"1778685984"
+		"remotetime"		"1778685984"
+		"sha"		"2bd9e043441a63f1fb528807e39caadddf99354f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Bewolba Studios/Food Processing Simulator/Player.log"
+	{
+		"root"		"12"
+		"size"		"13277"
+		"localtime"		"1778685997"
+		"time"		"1778685996"
+		"remotetime"		"1778685996"
+		"sha"		"ba2ee8096c5a576ff9739cf270828957def03c6c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}
