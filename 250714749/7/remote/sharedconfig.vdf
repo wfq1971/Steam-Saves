@@ -2,7 +2,7 @@
 {
 	"Software"
 	{
-		"Valve"
+		"valve"
 		{
 			"Steam"
 			{
@@ -10,13 +10,6 @@
 				"SurveyDateVersion"		"4781687628786023964"
 				"StartMenuShortcutCheck"		"1"
 				"DesktopShortcutCheck"		"1"
-				"apps"
-				{
-					"1144200"
-					{
-						"cloudenabled"		"0"
-					}
-				}
 			}
 		}
 	}
@@ -24,7 +17,7 @@
 	{
 		"timeline_intro"
 		{
-			"rtSeen"		"1785753728"
+			"rtSeen"		"1786632704"
 			"rtLinkDismissed"		"0"
 		}
 	}
